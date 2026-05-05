@@ -10,7 +10,7 @@
 **Degree:** B.S. Electrical Engineering · Namal University, Mianwali
 **Graduate Study:** M.S. Electrical Engineering · GIKI
 
-[![Phase 1](https://img.shields.io/badge/Phase%201-Foundations-1D6A9E?style=flat-square)](./Phase-1)
+[![Phase 1](https://img.shields.io/badge/Phase%201-Foundations-1D6A9E?style=flat-square)](./01_April)
 [![Phase 2](https://img.shields.io/badge/Phase%202-Classical%20ML-0F6E56?style=flat-square)](./Phase-2)
 [![Phase 3](https://img.shields.io/badge/Phase%203-Deep%20Learning-533AB7?style=flat-square)](./Phase-3)
 [![Phase 4](https://img.shields.io/badge/Phase%204-Advanced%20DL-BA7517?style=flat-square)](./Phase-4)
