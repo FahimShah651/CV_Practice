@@ -7,8 +7,10 @@
 ### Zero to Advanced · Daily Activity Plan · 130 Working Days
 
 **Author:** Fahim Ur Rehman Shah
+**Supervisor:** Dr Yasir Jan
 **Degree:** B.S. Electrical Engineering · Namal University, Mianwali
 **Graduate Study:** M.S. Electrical Engineering · GIKI
+**PEC GET Training:** Sir Syed CASE Institute of Technology
 
 [![Phase 1](https://img.shields.io/badge/Phase%201-Foundations-1D6A9E?style=flat-square)](./01_April)
 [![Phase 2](https://img.shields.io/badge/Phase%202-Classical%20ML-0F6E56?style=flat-square)](./02_May)
