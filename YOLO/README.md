@@ -22,12 +22,12 @@
 - **PEC GET Training:**
   *Sir Syed CASE Institute of Technology*
 
-[![Phase 1](https://img.shields.io/badge/Phase%201-Foundations-1D6A9E?style=flat-square)](./Phase-1_April_Foundations/)
-[![Phase 2](https://img.shields.io/badge/Phase%202-Classical%20ML-0F6E56?style=flat-square)](./Phase-2_May_Classical-ML/)
-[![Phase 3](https://img.shields.io/badge/Phase%203-Deep%20Learning-533AB7?style=flat-square)](./Phase-3_June_Deep-Learning/)
-[![Phase 4](https://img.shields.io/badge/Phase%204-Advanced%20DL-BA7517?style=flat-square)](./Phase-4_July_Advanced-DL/)
-[![Phase 5](https://img.shields.io/badge/Phase%205-Specialization-993C1D?style=flat-square)](./Phase-5_Agust_Specialization/)
-[![Phase 6](https://img.shields.io/badge/Phase%206-Capstone-3B6D11?style=flat-square)](./Phase-6_September_Capstone/)
+[![Phase 1](https://img.shields.io/badge/Phase%201-Foundations-1D6A9E?style=flat-square)](./01_April)
+[![Phase 2](https://img.shields.io/badge/Phase%202-Classical%20ML-0F6E56?style=flat-square)](./02_May)
+[![Phase 3](https://img.shields.io/badge/Phase%203-Deep%20Learning-533AB7?style=flat-square)](./03_June)
+[![Phase 4](https://img.shields.io/badge/Phase%204-Advanced%20DL-BA7517?style=flat-square)](./04_July)
+[![Phase 5](https://img.shields.io/badge/Phase%205-Specialization-993C1D?style=flat-square)](./05_Agust)
+[![Phase 6](https://img.shields.io/badge/Phase%206-Capstone-3B6D11?style=flat-square)](./06_September)
 
 </div>
 
@@ -246,13 +246,13 @@ seaborn>=0.13
 
 ---
 
-## 🔵 Phase 1 — [Python & Math Foundations for CV](./Phase-1_April_Foundations/)
+## 🔵 Phase 1 — [Python &amp; Math Foundations for CV](01_April)
 
 > **Weeks 1–4 · April**
 > Build rock-solid foundations in Python, NumPy, linear algebra, and classical image processing.
 
 <details>
-<summary><b>📅 Week 1 — <a href="./Phase-1_April_Foundations/Week-01_Python-NumPy/">Python & NumPy for Images</a></b></summary>
+<summary><b>📅 Week 1 — [Python & NumPy for Images](01_April/Week_01)</b></summary>
 
 | Day | Topic                        | Key Concepts                                           | Deliverable                              |
 | --- | ---------------------------- | ------------------------------------------------------ | ---------------------------------------- |
@@ -266,18 +266,18 @@ seaborn>=0.13
 
 | Day | Topic                        | File                                                | Remote | Campus |
 | --- | ---------------------------- | --------------------------------------------------- | ------ | ------ |
-| Mon | Environment Setup + NumPy    | [01_Python environment setup + NumPy basics.ipynb](./Phase-1_April_Foundations/Week-01_Python-NumPy/Day-01_Setup-NumPy/01_Python%20environment%20setup%20+%20NumPy%20basics.ipynb)    | [ ] Remote | [ ] Campus |
-| Tue | Image Representation         | [02_Image representation with NumPy.ipynb](./Phase-1_April_Foundations/Week-01_Python-NumPy/Day-02_Image-Representation/02_Image%20representation%20with%20NumPy.ipynb)            | [ ] Remote | [ ] Campus |
-| Wed | Linear Algebra for CV        | [03_Linear algebra for CV.ipynb](./Phase-1_April_Foundations/Week-01_Python-NumPy/Day-03_Linear-Algebra/03_Linear%20algebra%20for%20CV.ipynb)                      | [ ] Remote | [ ] Campus |
-| Thu | Probability & Statistics     | [04_Probability & statistics for CV.ipynb](./Phase-1_April_Foundations/Week-01_Python-NumPy/Day-04_Statistics-Histograms/04_Probability%20%26%20statistics%20for%20CV.ipynb)            | [ ] Remote | [ ] Campus |
-| Fri | Calculus Intuition + Project | [05_Calculus intuition + Week 1 project.ipynb](./Phase-1_April_Foundations/Week-01_Python-NumPy/Day-05_Project-Stats-Dashboard/05_Calculus%20intuition%20for%20CV%20+%20Week%201%20project.ipynb) | [ ] Remote | [ ] Campus |
+| Mon | Environment Setup + NumPy    | 01_Python environment setup + NumPy basics.ipynb    | ☐     | ☐     |
+| Tue | Image Representation         | 02_Image representation with NumPy.ipynb            | ☐     | ☐     |
+| Wed | Linear Algebra for CV        | 03_Linear algebra for CV.ipynb                      | ☐     | ☐     |
+| Thu | Probability & Statistics     | 04_Probability & statistics for CV.ipynb            | ☐     | ☐     |
+| Fri | Calculus Intuition + Project | 05_Calculus intuition for CV + Week 1 project.ipynb | ☐     | ☐     |
 
 **Week 1 Project:** Image Stats Dashboard — input any image, output histogram, mean, std, min/max, channel breakdown with Matplotlib visualization.
 
 </details>
 
 <details>
-<summary><b>📅 Week 2 — <a href="./Phase-1_April_Foundations/Week-02_Image-Processing/">Image Processing Fundamentals</a></b></summary>
+<summary><b>📅 Week 2 — [Image Processing Fundamentals](01_April/Week_02)</b></summary>
 
 | Day | Topic                   | Key Concepts                                           | Deliverable                                     |
 | --- | ----------------------- | ------------------------------------------------------ | ----------------------------------------------- |
@@ -291,18 +291,18 @@ seaborn>=0.13
 
 | Day | Topic                   | Remote | Campus |
 | --- | ----------------------- | ------ | ------ |
-| Mon | Color Spaces            | [ ] Remote | [ ] Campus |
-| Tue | Filtering & Convolution | [ ] Remote | [ ] Campus |
-| Wed | Edge Detection          | [ ] Remote | [ ] Campus |
-| Thu | Morphological Ops       | [ ] Remote | [ ] Campus |
-| Fri | Project                 | [ ] Remote | [ ] Campus |
+| Mon | Color Spaces            | ☐     | ☐     |
+| Tue | Filtering & Convolution | ☐     | ☐     |
+| Wed | Edge Detection          | ☐     | ☐     |
+| Thu | Morphological Ops       | ☐     | ☐     |
+| Fri | Project                 | ☐     | ☐     |
 
 **Week 2 Project:** Modular image preprocessing class — parameterized, handles denoise → edge → color space conversion for any input image type.
 
 </details>
 
 <details>
-<summary><b>📅 Week 3 — <a href="./Phase-1_April_Foundations/Week-03_Geometric-Transforms/">Geometric Transforms & Contours</a></b></summary>
+<summary><b>📅 Week 3 — [Geometric Transforms & Contours](01_April/Week_03)</b></summary>
 
 | Day | Topic                     | Key Concepts                                       | Deliverable                               |
 | --- | ------------------------- | -------------------------------------------------- | ----------------------------------------- |
@@ -316,18 +316,18 @@ seaborn>=0.13
 
 | Day | Topic                     | Remote | Campus |
 | --- | ------------------------- | ------ | ------ |
-| Mon | Geometric Transformations | [ ] Remote | [ ] Campus |
-| Tue | Contours & Shape Analysis | [ ] Remote | [ ] Campus |
-| Wed | Hough Transforms          | [ ] Remote | [ ] Campus |
-| Thu | Segmentation              | [ ] Remote | [ ] Campus |
-| Fri | Project                   | [ ] Remote | [ ] Campus |
+| Mon | Geometric Transformations | ☐     | ☐     |
+| Tue | Contours & Shape Analysis | ☐     | ☐     |
+| Wed | Hough Transforms          | ☐     | ☐     |
+| Thu | Segmentation              | ☐     | ☐     |
+| Fri | Project                   | ☐     | ☐     |
 
 **Week 3 Project:** Smart Document Scanner — phone photo → edge detection → perspective warp → flattened OCR-ready output.
 
 </details>
 
 <details>
-<summary><b>📅 Week 4 — <a href="./Phase-1_April_Foundations/Week-04_Feature-Detection/">Feature Detection & Description</a></b></summary>
+<summary><b>📅 Week 4 — [Feature Detection & Description](01_April/Week_04)</b></summary>
 
 | Day | Topic             | Key Concepts                                          | Deliverable                           |
 | --- | ----------------- | ----------------------------------------------------- | ------------------------------------- |
@@ -341,11 +341,11 @@ seaborn>=0.13
 
 | Day | Topic             | Remote | Campus |
 | --- | ----------------- | ------ | ------ |
-| Mon | Harris & FAST     | [ ] Remote | [ ] Campus |
-| Tue | SIFT / SURF / ORB | [ ] Remote | [ ] Campus |
-| Wed | Feature Matching  | [ ] Remote | [ ] Campus |
-| Thu | Optical Flow      | [ ] Remote | [ ] Campus |
-| Fri | Capstone          | [ ] Remote | [ ] Campus |
+| Mon | Harris & FAST     | ☐     | ☐     |
+| Tue | SIFT / SURF / ORB | ☐     | ☐     |
+| Wed | Feature Matching  | ☐     | ☐     |
+| Thu | Optical Flow      | ☐     | ☐     |
+| Fri | Capstone          | ☐     | ☐     |
 
 **Phase 1 Capstone:** Panorama Stitcher — SIFT → ratio test matching → RANSAC homography → multi-image warp + blend. CLI interface. GitHub repo.
 
@@ -353,13 +353,13 @@ seaborn>=0.13
 
 ---
 
-## 🟢 Phase 2 — [Classical Machine Learning for Vision](./Phase-2_May_Classical-ML/)
+## 🟢 Phase 2 — [Classical Machine Learning for Vision](02_May)
 
 > **Weeks 5–8 · May**
 > Classical ML applied to images — HOG, SVM, BoVW, tracking, and full video analysis pipelines.
 
 <details>
-<summary><b>📅 Week 5 — <a href="./Phase-2_May_Classical-ML/Week-05_ML-Fundamentals/">ML Fundamentals</a></b></summary>
+<summary><b>📅 Week 5 — [ML Fundamentals](02_May/Week_01)</b></summary>
 
 | Day | Topic                    | Key Concepts                                        | Deliverable                                        |
 | --- | ------------------------ | --------------------------------------------------- | -------------------------------------------------- |
@@ -373,16 +373,16 @@ seaborn>=0.13
 
 | Day | Topic                    | File                                  | Remote | Campus |
 | --- | ------------------------ | ------------------------------------- | ------ | ------ |
-| Mon | ML Core + scikit-learn   | [01_ML Core + scikit-learn.ipynb](./Phase-2_May_Classical-ML/Week-05_ML-Fundamentals/Day-21_ML-Core-Concepts/01_ML%20Core%20+%20scikit-learn.ipynb)       | [ ] Remote | [ ] Campus |
-| Tue | HOG & LBP Features       | [02_HOG & LBP Image Features.ipynb](./Phase-2_May_Classical-ML/Week-05_ML-Fundamentals/Day-22_HOG-LBP-Features/02_HOG%20%26%20LBP%20Image%20Features.ipynb)     | [ ] Remote | [ ] Campus |
-| Wed | PCA & Eigenfaces         | [03_PCA & Eigenfaces.ipynb](./Phase-2_May_Classical-ML/Week-05_ML-Fundamentals/Day-23_PCA-Eigenfaces/03_PCA%20%26%20Eigenfaces.ipynb)             | [ ] Remote | [ ] Campus |
-| Thu | Sliding Window Detection | [04_Sliding Window & Viola-Jones.ipynb](./Phase-2_May_Classical-ML/Week-05_ML-Fundamentals/Day-24_Sliding-Window-Detection/04_Sliding%20Window%20%26%20Viola-Jones.ipynb) | [ ] Remote | [ ] Campus |
-| Fri | Project                  | [05_Face Detection System.ipynb](./Phase-2_May_Classical-ML/Week-05_ML-Fundamentals/Day-25_Project-Face-Detector/05_Face%20Detection%20System.ipynb)        | [ ] Remote | [ ] Campus |
+| Mon | ML Core + scikit-learn   | 01_ML Core + scikit-learn.ipynb       | ☐     | ☐     |
+| Tue | HOG & LBP Features       | 02_HOG & LBP Image Features.ipynb     | ☐     | ☐     |
+| Wed | PCA & Eigenfaces         | 03_PCA & Eigenfaces.ipynb             | ☐     | ☐     |
+| Thu | Sliding Window Detection | 04_Sliding Window & Viola-Jones.ipynb | ☐     | ☐     |
+| Fri | Project                  | 05_Face Detection System.ipynb        | ☐     | ☐     |
 
 </details>
 
 <details>
-<summary><b>📅 Week 6 — <a href="./Phase-2_May_Classical-ML/Week-06_BoVW-Clustering/">Bag of Visual Words & Clustering</a></b></summary>
+<summary><b>📅 Week 6 — [Bag of Visual Words & Clustering](02_May/Week_02)</b></summary>
 
 | Day      | Topic                 | Key Concepts                                           | Deliverable                                |
 | -------- | --------------------- | ------------------------------------------------------ | ------------------------------------------ |
@@ -395,16 +395,16 @@ seaborn>=0.13
 
 | Day | Topic                 | File                                 | Remote | Campus |
 | --- | --------------------- | ------------------------------------ | ------ | ------ |
-| Mon | k-Means + BoVW        | [01_k-Means + Visual Vocabulary.ipynb](./Phase-2_May_Classical-ML/Week-06_BoVW-Clustering/Day-26-27_kMeans-BoVW/01_k-Means%20+%20Visual%20Vocabulary.ipynb) | [ ] Remote | [ ] Campus |
-| Tue | BoVW from Scratch     | [02_BoVW from Scratch.ipynb](./Phase-2_May_Classical-ML/Week-06_BoVW-Clustering/Day-26-27_kMeans-BoVW/02_BoVW%20from%20Scratch.ipynb)           | [ ] Remote | [ ] Campus |
-| Wed | Image Retrieval       | [03_Image Retrieval System.ipynb](./Phase-2_May_Classical-ML/Week-06_BoVW-Clustering/Day-28_Image-Retrieval/03_Image%20Retrieval%20System.ipynb)      | [ ] Remote | [ ] Campus |
-| Thu | CV Evaluation Metrics | —                                   | [ ] Remote | [ ] Campus |
-| Fri | Project               | —                                   | [ ] Remote | [ ] Campus |
+| Mon | k-Means + BoVW        | 01_k-Means + Visual Vocabulary.ipynb | ☐     | ☐     |
+| Tue | BoVW from Scratch     | 02_BoVW from Scratch.ipynb           | ☐     | ☐     |
+| Wed | Image Retrieval       | 03_Image Retrieval System.ipynb      | ☐     | ☐     |
+| Thu | CV Evaluation Metrics | —                                   | ☐     | ☐     |
+| Fri | Project               | —                                   | ☐     | ☐     |
 
 </details>
 
 <details>
-<summary><b>📅 Week 7 — <a href="./Phase-2_May_Classical-ML/Week-07_Video-Analysis/">Video Analysis & Motion</a></b></summary>
+<summary><b>📅 Week 7 — [Video Analysis & Motion](02_May/Week_03)</b></summary>
 
 | Day | Topic                  | Key Concepts                                       | Deliverable                                     |
 | --- | ---------------------- | -------------------------------------------------- | ----------------------------------------------- |
@@ -418,16 +418,16 @@ seaborn>=0.13
 
 | Day | Topic                  | Remote | Campus |
 | --- | ---------------------- | ------ | ------ |
-| Mon | Background Subtraction | [ ] Remote | [ ] Campus |
-| Tue | Object Tracking        | [ ] Remote | [ ] Campus |
-| Wed | Dense Optical Flow     | [ ] Remote | [ ] Campus |
-| Thu | Camera Calibration     | [ ] Remote | [ ] Campus |
-| Fri | Project                | [ ] Remote | [ ] Campus |
+| Mon | Background Subtraction | ☐     | ☐     |
+| Tue | Object Tracking        | ☐     | ☐     |
+| Wed | Dense Optical Flow     | ☐     | ☐     |
+| Thu | Camera Calibration     | ☐     | ☐     |
+| Fri | Project                | ☐     | ☐     |
 
 </details>
 
 <details>
-<summary><b>📅 Week 8 — <a href="./Phase-2_May_Classical-ML/Week-08_Phase2-Integration/">Phase 2 Integration</a></b></summary>
+<summary><b>📅 Week 8 — [Phase 2 Integration](02_May/Week_04)</b></summary>
 
 | Days     | Topic                               | Deliverable                                                                |
 | -------- | ----------------------------------- | -------------------------------------------------------------------------- |
@@ -438,11 +438,11 @@ seaborn>=0.13
 
 | Day | Topic            | Remote | Campus |
 | --- | ---------------- | ------ | ------ |
-| Mon | Vehicle Counting | [ ] Remote | [ ] Campus |
-| Tue | Vehicle Counting | [ ] Remote | [ ] Campus |
-| Wed | Vehicle Counting | [ ] Remote | [ ] Campus |
-| Thu | Portfolio Polish | [ ] Remote | [ ] Campus |
-| Fri | Portfolio Polish | [ ] Remote | [ ] Campus |
+| Mon | Vehicle Counting | ☐     | ☐     |
+| Tue | Vehicle Counting | ☐     | ☐     |
+| Wed | Vehicle Counting | ☐     | ☐     |
+| Thu | Portfolio Polish | ☐     | ☐     |
+| Fri | Portfolio Polish | ☐     | ☐     |
 
 **Phase 2 Capstone:** Vehicle counter + speed estimator on highway dashcam footage.
 
@@ -450,13 +450,13 @@ seaborn>=0.13
 
 ---
 
-## 🟣 Phase 3 — [Deep Learning & CNNs for Vision](./Phase-3_June_Deep-Learning/)
+## 🟣 Phase 3 — [Deep Learning &amp; CNNs for Vision](03_June)
 
 > **Weeks 9–14 · June**
 > From neural network math to Vision Transformers. Build everything before using pretrained weights.
 
 <details>
-<summary><b>📅 Week 9 — <a href="./Phase-3_June_Deep-Learning/Week-09_Neural-Networks/">Neural Networks Foundations</a></b></summary>
+<summary><b>📅 Week 9 — [Neural Networks Foundations](03_June/Week_01)</b></summary>
 
 | Day | Topic                 | Key Concepts                                               | Deliverable                              |
 | --- | --------------------- | ---------------------------------------------------------- | ---------------------------------------- |
@@ -470,16 +470,16 @@ seaborn>=0.13
 
 | Day | Topic                 | Remote | Campus |
 | --- | --------------------- | ------ | ------ |
-| Mon | MLP Theory            | [ ] Remote | [ ] Campus |
-| Tue | PyTorch Fundamentals  | [ ] Remote | [ ] Campus |
-| Wed | Optimizers & Training | [ ] Remote | [ ] Campus |
-| Thu | CNN Theory            | [ ] Remote | [ ] Campus |
-| Fri | Project               | [ ] Remote | [ ] Campus |
+| Mon | MLP Theory            | ☐     | ☐     |
+| Tue | PyTorch Fundamentals  | ☐     | ☐     |
+| Wed | Optimizers & Training | ☐     | ☐     |
+| Thu | CNN Theory            | ☐     | ☐     |
+| Fri | Project               | ☐     | ☐     |
 
 </details>
 
 <details>
-<summary><b>📅 Week 10 — <a href="./Phase-3_June_Deep-Learning/Week-10_CNN-Architectures/">Classic CNN Architectures</a></b></summary>
+<summary><b>📅 Week 10 — [Classic CNN Architectures](03_June/Week_02)</b></summary>
 
 | Day | Topic                      | Key Concepts                                           | Deliverable                                            |
 | --- | -------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
@@ -493,16 +493,16 @@ seaborn>=0.13
 
 | Day | Topic                      | Remote | Campus |
 | --- | -------------------------- | ------ | ------ |
-| Mon | LeNet → AlexNet → VGGNet | [ ] Remote | [ ] Campus |
-| Tue | ResNet                     | [ ] Remote | [ ] Campus |
-| Wed | Inception & DenseNet       | [ ] Remote | [ ] Campus |
-| Thu | Transfer Learning          | [ ] Remote | [ ] Campus |
-| Fri | Project                    | [ ] Remote | [ ] Campus |
+| Mon | LeNet → AlexNet → VGGNet | ☐     | ☐     |
+| Tue | ResNet                     | ☐     | ☐     |
+| Wed | Inception & DenseNet       | ☐     | ☐     |
+| Thu | Transfer Learning          | ☐     | ☐     |
+| Fri | Project                    | ☐     | ☐     |
 
 </details>
 
 <details>
-<summary><b>📅 Week 11 — <a href="./Phase-3_June_Deep-Learning/Week-11_Object-Detection/">Object Detection with Deep Learning</a></b></summary>
+<summary><b>📅 Week 11 — [Object Detection with Deep Learning](03_June/Week_03)</b></summary>
 
 | Day | Topic                  | Key Concepts                                              | Deliverable                                                  |
 | --- | ---------------------- | --------------------------------------------------------- | ------------------------------------------------------------ |
@@ -516,16 +516,16 @@ seaborn>=0.13
 
 | Day | Topic                  | Remote | Campus |
 | --- | ---------------------- | ------ | ------ |
-| Mon | Detection Fundamentals | [ ] Remote | [ ] Campus |
-| Tue | R-CNN Family           | [ ] Remote | [ ] Campus |
-| Wed | YOLO                   | [ ] Remote | [ ] Campus |
-| Thu | Custom Training        | [ ] Remote | [ ] Campus |
-| Fri | Project                | [ ] Remote | [ ] Campus |
+| Mon | Detection Fundamentals | ☐     | ☐     |
+| Tue | R-CNN Family           | ☐     | ☐     |
+| Wed | YOLO                   | ☐     | ☐     |
+| Thu | Custom Training        | ☐     | ☐     |
+| Fri | Project                | ☐     | ☐     |
 
 </details>
 
 <details>
-<summary><b>📅 Week 12 — <a href="./Phase-3_June_Deep-Learning/Week-12_Segmentation/">Semantic & Instance Segmentation</a></b></summary>
+<summary><b>📅 Week 12 — [Semantic & Instance Segmentation](03_June/Week_04)</b></summary>
 
 | Day | Topic          | Key Concepts                                                 | Deliverable                                                      |
 | --- | -------------- | ------------------------------------------------------------ | ---------------------------------------------------------------- |
@@ -539,16 +539,16 @@ seaborn>=0.13
 
 | Day | Topic          | Remote | Campus |
 | --- | -------------- | ------ | ------ |
-| Mon | FCN & U-Net    | [ ] Remote | [ ] Campus |
-| Tue | DeepLab        | [ ] Remote | [ ] Campus |
-| Wed | Mask R-CNN     | [ ] Remote | [ ] Campus |
-| Thu | SAM + Panoptic | [ ] Remote | [ ] Campus |
-| Fri | Project        | [ ] Remote | [ ] Campus |
+| Mon | FCN & U-Net    | ☐     | ☐     |
+| Tue | DeepLab        | ☐     | ☐     |
+| Wed | Mask R-CNN     | ☐     | ☐     |
+| Thu | SAM + Panoptic | ☐     | ☐     |
+| Fri | Project        | ☐     | ☐     |
 
 </details>
 
 <details>
-<summary><b>📅 Weeks 13–14 — <a href="./Phase-3_June_Deep-Learning/">Vision Transformers & Attention</a></b></summary>
+<summary><b>📅 Weeks 13–14 — [Vision Transformers & Attention](03_June)</b></summary>
 
 | Days          | Topic                   | Key Concepts                                               | Deliverable                                                      |
 | ------------- | ----------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------- |
@@ -561,28 +561,28 @@ seaborn>=0.13
 
 | Week | Day | Topic                   | Remote | Campus |
 | ---- | --- | ----------------------- | ------ | ------ |
-| 13   | Mon | Attention & Transformer | [ ] Remote | [ ] Campus |
-| 13   | Tue | Attention & Transformer | [ ] Remote | [ ] Campus |
-| 13   | Wed | Attention & Transformer | [ ] Remote | [ ] Campus |
-| 13   | Thu | ViT & CLIP              | [ ] Remote | [ ] Campus |
-| 13   | Fri | ViT & CLIP              | [ ] Remote | [ ] Campus |
-| 14   | Mon | Swin + DETR             | [ ] Remote | [ ] Campus |
-| 14   | Tue | Swin + DETR             | [ ] Remote | [ ] Campus |
-| 14   | Wed | Swin + DETR             | [ ] Remote | [ ] Campus |
-| 14   | Thu | Capstone                | [ ] Remote | [ ] Campus |
-| 14   | Fri | Capstone                | [ ] Remote | [ ] Campus |
+| 13   | Mon | Attention & Transformer | ☐     | ☐     |
+| 13   | Tue | Attention & Transformer | ☐     | ☐     |
+| 13   | Wed | Attention & Transformer | ☐     | ☐     |
+| 13   | Thu | ViT & CLIP              | ☐     | ☐     |
+| 13   | Fri | ViT & CLIP              | ☐     | ☐     |
+| 14   | Mon | Swin + DETR             | ☐     | ☐     |
+| 14   | Tue | Swin + DETR             | ☐     | ☐     |
+| 14   | Wed | Swin + DETR             | ☐     | ☐     |
+| 14   | Thu | Capstone                | ☐     | ☐     |
+| 14   | Fri | Capstone                | ☐     | ☐     |
 
 </details>
 
 ---
 
-## 🟠 Phase 4 — [Advanced Deep Learning](./Phase-4_July_Advanced-DL/)
+## 🟠 Phase 4 — [Advanced Deep Learning](04_July)
 
 > **Weeks 15–18 · July**
 > GANs, 3D vision, self-supervised learning, and real production deployment.
 
 <details>
-<summary><b>📅 Week 15 — <a href="./Phase-4_July_Advanced-DL/Week-15_GANs-VAEs/">Generative Models</a></b></summary>
+<summary><b>📅 Week 15 — [Generative Models](04_July/Week_01)</b></summary>
 
 | Day | Topic              | Key Concepts                                         | Deliverable                                                 |
 | --- | ------------------ | ---------------------------------------------------- | ----------------------------------------------------------- |
@@ -596,16 +596,16 @@ seaborn>=0.13
 
 | Day | Topic              | Remote | Campus |
 | --- | ------------------ | ------ | ------ |
-| Mon | GAN Theory         | [ ] Remote | [ ] Campus |
-| Tue | DCGAN & StyleGAN   | [ ] Remote | [ ] Campus |
-| Wed | Pix2Pix & CycleGAN | [ ] Remote | [ ] Campus |
-| Thu | VAEs & Diffusion   | [ ] Remote | [ ] Campus |
-| Fri | Project            | [ ] Remote | [ ] Campus |
+| Mon | GAN Theory         | ☐     | ☐     |
+| Tue | DCGAN & StyleGAN   | ☐     | ☐     |
+| Wed | Pix2Pix & CycleGAN | ☐     | ☐     |
+| Thu | VAEs & Diffusion   | ☐     | ☐     |
+| Fri | Project            | ☐     | ☐     |
 
 </details>
 
 <details>
-<summary><b>📅 Week 16 — <a href="./Phase-4_July_Advanced-DL/Week-16_3D-Vision/">3D Computer Vision</a></b></summary>
+<summary><b>📅 Week 16 — [3D Computer Vision](04_July/Week_02)</b></summary>
 
 | Day | Topic           | Key Concepts                                  | Deliverable                                                  |
 | --- | --------------- | --------------------------------------------- | ------------------------------------------------------------ |
@@ -619,16 +619,16 @@ seaborn>=0.13
 
 | Day | Topic           | Remote | Campus |
 | --- | --------------- | ------ | ------ |
-| Mon | 3D Geometry     | [ ] Remote | [ ] Campus |
-| Tue | Monocular Depth | [ ] Remote | [ ] Campus |
-| Wed | Point Clouds    | [ ] Remote | [ ] Campus |
-| Thu | NeRF & 3DGS     | [ ] Remote | [ ] Campus |
-| Fri | Project         | [ ] Remote | [ ] Campus |
+| Mon | 3D Geometry     | ☐     | ☐     |
+| Tue | Monocular Depth | ☐     | ☐     |
+| Wed | Point Clouds    | ☐     | ☐     |
+| Thu | NeRF & 3DGS     | ☐     | ☐     |
+| Fri | Project         | ☐     | ☐     |
 
 </details>
 
 <details>
-<summary><b>📅 Week 17 — <a href="./Phase-4_July_Advanced-DL/Week-17_Self-Supervised/">Self-supervised & Contrastive Learning</a></b></summary>
+<summary><b>📅 Week 17 — [Self-supervised & Contrastive Learning](04_July/Week_03)</b></summary>
 
 | Day      | Topic                   | Key Concepts                                          | Deliverable                                               |
 | -------- | ----------------------- | ----------------------------------------------------- | --------------------------------------------------------- |
@@ -640,16 +640,16 @@ seaborn>=0.13
 
 | Day | Topic                   | Remote | Campus |
 | --- | ----------------------- | ------ | ------ |
-| Mon | SimCLR, MoCo, DINO      | [ ] Remote | [ ] Campus |
-| Tue | SimCLR, MoCo, DINO      | [ ] Remote | [ ] Campus |
-| Wed | MAE & Foundation Models | [ ] Remote | [ ] Campus |
-| Thu | MAE & Foundation Models | [ ] Remote | [ ] Campus |
-| Fri | Project                 | [ ] Remote | [ ] Campus |
+| Mon | SimCLR, MoCo, DINO      | ☐     | ☐     |
+| Tue | SimCLR, MoCo, DINO      | ☐     | ☐     |
+| Wed | MAE & Foundation Models | ☐     | ☐     |
+| Thu | MAE & Foundation Models | ☐     | ☐     |
+| Fri | Project                 | ☐     | ☐     |
 
 </details>
 
 <details>
-<summary><b>📅 Week 18 — <a href="./Phase-4_July_Advanced-DL/Week-18_Optimization-Deployment/">Model Optimization & Deployment</a></b></summary>
+<summary><b>📅 Week 18 — [Model Optimization & Deployment](04_July/Week_04)</b></summary>
 
 | Day | Topic                  | Key Concepts                                         | Deliverable                                            |
 | --- | ---------------------- | ---------------------------------------------------- | ------------------------------------------------------ |
@@ -663,23 +663,23 @@ seaborn>=0.13
 
 | Day | Topic                  | Remote | Campus |
 | --- | ---------------------- | ------ | ------ |
-| Mon | Pruning & Quantization | [ ] Remote | [ ] Campus |
-| Tue | ONNX & TensorRT        | [ ] Remote | [ ] Campus |
-| Wed | Edge Deployment        | [ ] Remote | [ ] Campus |
-| Thu | MLOps                  | [ ] Remote | [ ] Campus |
-| Fri | Capstone               | [ ] Remote | [ ] Campus |
+| Mon | Pruning & Quantization | ☐     | ☐     |
+| Tue | ONNX & TensorRT        | ☐     | ☐     |
+| Wed | Edge Deployment        | ☐     | ☐     |
+| Thu | MLOps                  | ☐     | ☐     |
+| Fri | Capstone               | ☐     | ☐     |
 
 </details>
 
 ---
 
-## 🔴 Phase 5 — [Specialization Tracks](./Phase-5_Agust_Specialization/)
+## 🔴 Phase 5 — [Specialization Tracks](05_Agust)
 
 > **Weeks 19–22 · August**
 > Deep mastery in four applied domains — face recognition, pose estimation, OCR, and autonomous vehicles.
 
 <details>
-<summary><b>📅 Week 19 — <a href="./Phase-5_Agust_Specialization/Week-19_Face-Recognition/">Face Recognition & Biometrics</a></b></summary>
+<summary><b>📅 Week 19 — [Face Recognition & Biometrics](05_Agust/Week_01)</b></summary>
 
 | Days     | Topic                   | Key Concepts                                          | Deliverable                                                      |
 | -------- | ----------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- |
@@ -691,16 +691,16 @@ seaborn>=0.13
 
 | Day | Topic                   | Remote | Campus |
 | --- | ----------------------- | ------ | ------ |
-| Mon | Advanced Face Detection | [ ] Remote | [ ] Campus |
-| Tue | Advanced Face Detection | [ ] Remote | [ ] Campus |
-| Wed | ArcFace & FaceNet       | [ ] Remote | [ ] Campus |
-| Thu | ArcFace & FaceNet       | [ ] Remote | [ ] Campus |
-| Fri | Project                 | [ ] Remote | [ ] Campus |
+| Mon | Advanced Face Detection | ☐     | ☐     |
+| Tue | Advanced Face Detection | ☐     | ☐     |
+| Wed | ArcFace & FaceNet       | ☐     | ☐     |
+| Thu | ArcFace & FaceNet       | ☐     | ☐     |
+| Fri | Project                 | ☐     | ☐     |
 
 </details>
 
 <details>
-<summary><b>📅 Week 20 — <a href="./Phase-5_Agust_Specialization/Week-20_Pose-Estimation/">Pose Estimation & Body Tracking</a></b></summary>
+<summary><b>📅 Week 20 — [Pose Estimation & Body Tracking](05_Agust/Week_02)</b></summary>
 
 | Days     | Topic                 | Key Concepts                                            | Deliverable                                                     |
 | -------- | --------------------- | ------------------------------------------------------- | --------------------------------------------------------------- |
@@ -711,16 +711,16 @@ seaborn>=0.13
 
 | Day | Topic                 | Remote | Campus |
 | --- | --------------------- | ------ | ------ |
-| Mon | Human Pose Estimation | [ ] Remote | [ ] Campus |
-| Tue | Human Pose Estimation | [ ] Remote | [ ] Campus |
-| Wed | Action Recognition    | [ ] Remote | [ ] Campus |
-| Thu | Action Recognition    | [ ] Remote | [ ] Campus |
-| Fri | Action Recognition    | [ ] Remote | [ ] Campus |
+| Mon | Human Pose Estimation | ☐     | ☐     |
+| Tue | Human Pose Estimation | ☐     | ☐     |
+| Wed | Action Recognition    | ☐     | ☐     |
+| Thu | Action Recognition    | ☐     | ☐     |
+| Fri | Action Recognition    | ☐     | ☐     |
 
 </details>
 
 <details>
-<summary><b>📅 Week 21 — <a href="./Phase-5_Agust_Specialization/Week-21_OCR-DocumentAI/">OCR & Document AI</a></b></summary>
+<summary><b>📅 Week 21 — [OCR & Document AI](05_Agust/Week_03)</b></summary>
 
 | Days     | Topic            | Key Concepts                                         | Deliverable                                                          |
 | -------- | ---------------- | ---------------------------------------------------- | -------------------------------------------------------------------- |
@@ -732,16 +732,16 @@ seaborn>=0.13
 
 | Day | Topic            | Remote | Campus |
 | --- | ---------------- | ------ | ------ |
-| Mon | Text Detection   | [ ] Remote | [ ] Campus |
-| Tue | Text Detection   | [ ] Remote | [ ] Campus |
-| Wed | Text Recognition | [ ] Remote | [ ] Campus |
-| Thu | Project          | [ ] Remote | [ ] Campus |
-| Fri | Project          | [ ] Remote | [ ] Campus |
+| Mon | Text Detection   | ☐     | ☐     |
+| Tue | Text Detection   | ☐     | ☐     |
+| Wed | Text Recognition | ☐     | ☐     |
+| Thu | Project          | ☐     | ☐     |
+| Fri | Project          | ☐     | ☐     |
 
 </details>
 
 <details>
-<summary><b>📅 Week 22 — <a href="./Phase-5_Agust_Specialization/Week-22_Autonomous-Vehicle/">Autonomous Vehicle & Scene Understanding</a></b></summary>
+<summary><b>📅 Week 22 — [Autonomous Vehicle & Scene Understanding](05_Agust/Week_04)</b></summary>
 
 | Days     | Topic               | Key Concepts                                                | Deliverable                                                                    |
 | -------- | ------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------ |
@@ -752,23 +752,23 @@ seaborn>=0.13
 
 | Day | Topic               | Remote | Campus |
 | --- | ------------------- | ------ | ------ |
-| Mon | Lane Detection      | [ ] Remote | [ ] Campus |
-| Tue | Lane Detection      | [ ] Remote | [ ] Campus |
-| Wed | Multi-sensor Fusion | [ ] Remote | [ ] Campus |
-| Thu | Multi-sensor Fusion | [ ] Remote | [ ] Campus |
-| Fri | Multi-sensor Fusion | [ ] Remote | [ ] Campus |
+| Mon | Lane Detection      | ☐     | ☐     |
+| Tue | Lane Detection      | ☐     | ☐     |
+| Wed | Multi-sensor Fusion | ☐     | ☐     |
+| Thu | Multi-sensor Fusion | ☐     | ☐     |
+| Fri | Multi-sensor Fusion | ☐     | ☐     |
 
 </details>
 
 ---
 
-## 🟩 Phase 6 — [Capstone Projects & Portfolio](./Phase-6_September_Capstone/)
+## 🟩 Phase 6 — [Capstone Projects &amp; Portfolio](06_September)
 
 > **Weeks 23–26 · September**
 > Paper implementation, a major end-to-end project, full deployment, and job-ready portfolio.
 
 <details>
-<summary><b>📅 Week 23 — <a href="./Phase-6_September_Capstone/Week-23_Paper-Implementation/">Research Paper Implementation</a></b></summary>
+<summary><b>📅 Week 23 — [Research Paper Implementation](06_September/Week_01)</b></summary>
 
 Choose one recent CV paper (2023/2024) from the list below and fully implement it:
 
@@ -793,7 +793,7 @@ Choose one recent CV paper (2023/2024) from the list below and fully implement i
 </details>
 
 <details>
-<summary><b>📅 Weeks 24–25 — <a href="./Phase-6_September_Capstone/Week-24_Capstone-Build/">Major Capstone Project</a></b></summary>
+<summary><b>📅 Weeks 24–25 — [Major Capstone Project](06_September/Week_02)</b></summary>
 
 Choose one domain application:
 
@@ -812,21 +812,21 @@ Choose one domain application:
 
 | Week | Day | Focus       | Remote | Campus |
 | ---- | --- | ----------- | ------ | ------ |
-| 24   | Mon | Design      | [ ] Remote | [ ] Campus |
-| 24   | Tue | Data        | [ ] Remote | [ ] Campus |
-| 24   | Wed | Baseline    | [ ] Remote | [ ] Campus |
-| 24   | Thu | Optimize    | [ ] Remote | [ ] Campus |
-| 24   | Fri | ONNX Export | [ ] Remote | [ ] Campus |
-| 25   | Mon | Deployment  | [ ] Remote | [ ] Campus |
-| 25   | Tue | Dockerize   | [ ] Remote | [ ] Campus |
-| 25   | Wed | Deployment  | [ ] Remote | [ ] Campus |
-| 25   | Thu | Demo        | [ ] Remote | [ ] Campus |
-| 25   | Fri | Portfolio   | [ ] Remote | [ ] Campus |
+| 24   | Mon | Design      | ☐     | ☐     |
+| 24   | Tue | Data        | ☐     | ☐     |
+| 24   | Wed | Baseline    | ☐     | ☐     |
+| 24   | Thu | Optimize    | ☐     | ☐     |
+| 24   | Fri | ONNX Export | ☐     | ☐     |
+| 25   | Mon | Deployment  | ☐     | ☐     |
+| 25   | Tue | Dockerize   | ☐     | ☐     |
+| 25   | Wed | Deployment  | ☐     | ☐     |
+| 25   | Thu | Demo        | ☐     | ☐     |
+| 25   | Fri | Portfolio   | ☐     | ☐     |
 
 </details>
 
 <details>
-<summary><b>📅 Week 26 — <a href="./Phase-6_September_Capstone/Week-26_Interview-Portfolio/">Interview Preparation & Launch</a></b></summary>
+<summary><b>📅 Week 26 — [Interview Preparation & Launch](06_September/Week_04)</b></summary>
 
 | Day      | Focus                                                                         |
 | -------- | ----------------------------------------------------------------------------- |
@@ -839,11 +839,11 @@ Choose one domain application:
 
 | Day | Focus                | Remote | Campus |
 | --- | -------------------- | ------ | ------ |
-| Mon | Theory Q&A           | [ ] Remote | [ ] Campus |
-| Tue | Mock Interviews      | [ ] Remote | [ ] Campus |
-| Wed | LeetCode Practice    | [ ] Remote | [ ] Campus |
-| Thu | Kaggle & Open Source | [ ] Remote | [ ] Campus |
-| Fri | Portfolio Review     | [ ] Remote | [ ] Campus |
+| Mon | Theory Q&A           | ☐     | ☐     |
+| Tue | Mock Interviews      | ☐     | ☐     |
+| Wed | LeetCode Practice    | ☐     | ☐     |
+| Thu | Kaggle & Open Source | ☐     | ☐     |
+| Fri | Portfolio Review     | ☐     | ☐     |
 
 </details>
 
@@ -1009,12 +1009,12 @@ python inference.py --image path/to/image.jpg --visualize
 
 | Phase                              | Weeks  | Status         |
 | ---------------------------------- | ------ | -------------- |
-| [Phase 1 — Foundations](./Phase-1_April_Foundations/)    | 1–4   | 🔲 In Progress |
-| [Phase 2 — Classical ML](./Phase-2_May_Classical-ML/)     | 5–8   | 🔲 In Progress |
-| [Phase 3 — Deep Learning](./Phase-3_June_Deep-Learning/)   | 9–14  | 🔲 Not Started |
-| [Phase 4 — Advanced DL](./Phase-4_July_Advanced-DL/)     | 15–18 | 🔲 Not Started |
-| [Phase 5 — Specialization](./Phase-5_Agust_Specialization/) | 19–22 | 🔲 Not Started |
-| [Phase 6 — Capstone](./Phase-6_September_Capstone/)   | 23–26 | 🔲 Not Started |
+| [Phase 1 — Foundations](01_April)    | 1–4   | 🔲 In Progress |
+| [Phase 2 — Classical ML](02_May)     | 5–8   | 🔲 In Progress |
+| [Phase 3 — Deep Learning](03_June)   | 9–14  | 🔲 Not Started |
+| [Phase 4 — Advanced DL](04_July)     | 15–18 | 🔲 Not Started |
+| [Phase 5 — Specialization](05_Agust) | 19–22 | 🔲 Not Started |
+| [Phase 6 — Capstone](06_September)   | 23–26 | 🔲 Not Started |
 
 > Update this table as you progress. Change 🔲 to ✅ when a phase is complete.
 
