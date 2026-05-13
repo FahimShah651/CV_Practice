@@ -8,21 +8,19 @@
 
 ### Author Information
 
-- **Author:** Fahim Ur Rehman Shah  
-- **Supervisor:** Dr. Yasir Jan  
+- **Author:** Fahim Ur Rehman Shah
+- **Supervisor:** Dr. Yasir Jan
 
 ### Academic Background
 
-- **Degree:** B.S. Electrical Engineering  
-  *Namal University, Mianwali*  
-
-- **Graduate Study:** M.S. Electrical Engineering  
-  *Ghulam Ishaq Khan Institute (GIKI)*  
+- **Degree:** B.S. Electrical Engineering*Namal University, Mianwali*
+- **Graduate Study:** M.S. Electrical Engineering
+  *Ghulam Ishaq Khan Institute (GIKI)*
 
 ### Professional Training
 
-- **PEC GET Training:**  
-  *Sir Syed CASE Institute of Technology*  
+- **PEC GET Training:**
+  *Sir Syed CASE Institute of Technology*
 
 [![Phase 1](https://img.shields.io/badge/Phase%201-Foundations-1D6A9E?style=flat-square)](./01_April)
 [![Phase 2](https://img.shields.io/badge/Phase%202-Classical%20ML-0F6E56?style=flat-square)](./02_May)
@@ -248,13 +246,13 @@ seaborn>=0.13
 
 ---
 
-## 🔵 Phase 1 — Python & Math Foundations for CV
+## 🔵 Phase 1 — [Python &amp; Math Foundations for CV](01_April)
 
-> **Weeks 1–4 · Month 1**
+> **Weeks 1–4 · April**
 > Build rock-solid foundations in Python, NumPy, linear algebra, and classical image processing.
 
 <details>
-<summary><b>📅 Week 1 — Python & NumPy for Images</b></summary>
+<summary><b>📅 Week 1 — [Python & NumPy for Images](01_April/Week_01)</b></summary>
 
 | Day | Topic                        | Key Concepts                                           | Deliverable                              |
 | --- | ---------------------------- | ------------------------------------------------------ | ---------------------------------------- |
@@ -264,12 +262,22 @@ seaborn>=0.13
 | Thu | Probability & Statistics     | Gaussian, Bayes, histograms, Otsu thresholding         | Histogram equalization demo              |
 | Fri | Calculus Intuition + Project | Gradients, gradient descent, chain rule                | **Project: Image Stats Dashboard** |
 
+**Daily Attendance Tracking:**
+
+| Day | Topic                        | File                                                | Remote | Campus |
+| --- | ---------------------------- | --------------------------------------------------- | ------ | ------ |
+| Mon | Environment Setup + NumPy    | 01_Python environment setup + NumPy basics.ipynb    | ☐     | ☐     |
+| Tue | Image Representation         | 02_Image representation with NumPy.ipynb            | ☐     | ☐     |
+| Wed | Linear Algebra for CV        | 03_Linear algebra for CV.ipynb                      | ☐     | ☐     |
+| Thu | Probability & Statistics     | 04_Probability & statistics for CV.ipynb            | ☐     | ☐     |
+| Fri | Calculus Intuition + Project | 05_Calculus intuition for CV + Week 1 project.ipynb | ☐     | ☐     |
+
 **Week 1 Project:** Image Stats Dashboard — input any image, output histogram, mean, std, min/max, channel breakdown with Matplotlib visualization.
 
 </details>
 
 <details>
-<summary><b>📅 Week 2 — Image Processing Fundamentals</b></summary>
+<summary><b>📅 Week 2 — [Image Processing Fundamentals](01_April/Week_02)</b></summary>
 
 | Day | Topic                   | Key Concepts                                           | Deliverable                                     |
 | --- | ----------------------- | ------------------------------------------------------ | ----------------------------------------------- |
@@ -279,12 +287,22 @@ seaborn>=0.13
 | Thu | Morphological Ops       | Erosion, dilation, opening, closing, top-hat           | Shape isolation tasks                           |
 | Fri | Project                 | Combine all ops into a reusable class                  | **Project: Image Preprocessing Pipeline** |
 
+**Daily Attendance Tracking:**
+
+| Day | Topic                   | Remote | Campus |
+| --- | ----------------------- | ------ | ------ |
+| Mon | Color Spaces            | ☐     | ☐     |
+| Tue | Filtering & Convolution | ☐     | ☐     |
+| Wed | Edge Detection          | ☐     | ☐     |
+| Thu | Morphological Ops       | ☐     | ☐     |
+| Fri | Project                 | ☐     | ☐     |
+
 **Week 2 Project:** Modular image preprocessing class — parameterized, handles denoise → edge → color space conversion for any input image type.
 
 </details>
 
 <details>
-<summary><b>📅 Week 3 — Geometric Transforms & Contours</b></summary>
+<summary><b>📅 Week 3 — [Geometric Transforms & Contours](01_April/Week_03)</b></summary>
 
 | Day | Topic                     | Key Concepts                                       | Deliverable                               |
 | --- | ------------------------- | -------------------------------------------------- | ----------------------------------------- |
@@ -294,12 +312,22 @@ seaborn>=0.13
 | Thu | Segmentation              | Adaptive thresholding, Watershed, GrabCut          | Touching object segmentation              |
 | Fri | Project                   | Full pipeline                                      | **Project: Smart Document Scanner** |
 
+**Daily Attendance Tracking:**
+
+| Day | Topic                     | Remote | Campus |
+| --- | ------------------------- | ------ | ------ |
+| Mon | Geometric Transformations | ☐     | ☐     |
+| Tue | Contours & Shape Analysis | ☐     | ☐     |
+| Wed | Hough Transforms          | ☐     | ☐     |
+| Thu | Segmentation              | ☐     | ☐     |
+| Fri | Project                   | ☐     | ☐     |
+
 **Week 3 Project:** Smart Document Scanner — phone photo → edge detection → perspective warp → flattened OCR-ready output.
 
 </details>
 
 <details>
-<summary><b>📅 Week 4 — Feature Detection & Description</b></summary>
+<summary><b>📅 Week 4 — [Feature Detection & Description](01_April/Week_04)</b></summary>
 
 | Day | Topic             | Key Concepts                                          | Deliverable                           |
 | --- | ----------------- | ----------------------------------------------------- | ------------------------------------- |
@@ -309,19 +337,29 @@ seaborn>=0.13
 | Thu | Optical Flow      | Lucas-Kanade, Farneback dense flow, motion estimation | Real-time feature tracker             |
 | Fri | Capstone          | Full stitching pipeline                               | **Capstone: Panorama Stitcher** |
 
+**Daily Attendance Tracking:**
+
+| Day | Topic             | Remote | Campus |
+| --- | ----------------- | ------ | ------ |
+| Mon | Harris & FAST     | ☐     | ☐     |
+| Tue | SIFT / SURF / ORB | ☐     | ☐     |
+| Wed | Feature Matching  | ☐     | ☐     |
+| Thu | Optical Flow      | ☐     | ☐     |
+| Fri | Capstone          | ☐     | ☐     |
+
 **Phase 1 Capstone:** Panorama Stitcher — SIFT → ratio test matching → RANSAC homography → multi-image warp + blend. CLI interface. GitHub repo.
 
 </details>
 
 ---
 
-## 🟢 Phase 2 — Classical Machine Learning for Vision
+## 🟢 Phase 2 — [Classical Machine Learning for Vision](02_May)
 
-> **Weeks 5–8 · Month 2**
+> **Weeks 5–8 · May**
 > Classical ML applied to images — HOG, SVM, BoVW, tracking, and full video analysis pipelines.
 
 <details>
-<summary><b>📅 Week 5 — ML Fundamentals</b></summary>
+<summary><b>📅 Week 5 — [ML Fundamentals](02_May/Week_01)</b></summary>
 
 | Day | Topic                    | Key Concepts                                        | Deliverable                                        |
 | --- | ------------------------ | --------------------------------------------------- | -------------------------------------------------- |
@@ -331,10 +369,20 @@ seaborn>=0.13
 | Thu | Sliding Window Detection | Image pyramid, Viola-Jones, Haar cascades           | Pedestrian detector (HOG+SVM)                      |
 | Fri | Project                  | Full face system                                    | **Project: Real-time Face Detection System** |
 
+**Daily Attendance Tracking:**
+
+| Day | Topic                    | File                                  | Remote | Campus |
+| --- | ------------------------ | ------------------------------------- | ------ | ------ |
+| Mon | ML Core + scikit-learn   | 01_ML Core + scikit-learn.ipynb       | ☐     | ☐     |
+| Tue | HOG & LBP Features       | 02_HOG & LBP Image Features.ipynb     | ☐     | ☐     |
+| Wed | PCA & Eigenfaces         | 03_PCA & Eigenfaces.ipynb             | ☐     | ☐     |
+| Thu | Sliding Window Detection | 04_Sliding Window & Viola-Jones.ipynb | ☐     | ☐     |
+| Fri | Project                  | 05_Face Detection System.ipynb        | ☐     | ☐     |
+
 </details>
 
 <details>
-<summary><b>📅 Week 6 — Bag of Visual Words & Clustering</b></summary>
+<summary><b>📅 Week 6 — [Bag of Visual Words & Clustering](02_May/Week_02)</b></summary>
 
 | Day      | Topic                 | Key Concepts                                           | Deliverable                                |
 | -------- | --------------------- | ------------------------------------------------------ | ------------------------------------------ |
@@ -343,10 +391,20 @@ seaborn>=0.13
 | Thu      | CV Evaluation Metrics | Precision, Recall, mAP, IoU, ROC/AUC, confusion matrix | Evaluation report                          |
 | Fri      | Project               | Flask web app                                          | **Project: CBIR System with Web UI** |
 
+**Daily Attendance Tracking:**
+
+| Day | Topic                 | File                                 | Remote | Campus |
+| --- | --------------------- | ------------------------------------ | ------ | ------ |
+| Mon | k-Means + BoVW        | 01_k-Means + Visual Vocabulary.ipynb | ☐     | ☐     |
+| Tue | BoVW from Scratch     | 02_BoVW from Scratch.ipynb           | ☐     | ☐     |
+| Wed | Image Retrieval       | 03_Image Retrieval System.ipynb      | ☐     | ☐     |
+| Thu | CV Evaluation Metrics | —                                   | ☐     | ☐     |
+| Fri | Project               | —                                   | ☐     | ☐     |
+
 </details>
 
 <details>
-<summary><b>📅 Week 7 — Video Analysis & Motion</b></summary>
+<summary><b>📅 Week 7 — [Video Analysis & Motion](02_May/Week_03)</b></summary>
 
 | Day | Topic                  | Key Concepts                                       | Deliverable                                     |
 | --- | ---------------------- | -------------------------------------------------- | ----------------------------------------------- |
@@ -356,15 +414,35 @@ seaborn>=0.13
 | Thu | Camera Calibration     | Pinhole model, intrinsics/extrinsics, distortion   | Calibrated camera undistortion                  |
 | Fri | Project                | Full system                                        | **Project: Motion-Based Security System** |
 
+**Daily Attendance Tracking:**
+
+| Day | Topic                  | Remote | Campus |
+| --- | ---------------------- | ------ | ------ |
+| Mon | Background Subtraction | ☐     | ☐     |
+| Tue | Object Tracking        | ☐     | ☐     |
+| Wed | Dense Optical Flow     | ☐     | ☐     |
+| Thu | Camera Calibration     | ☐     | ☐     |
+| Fri | Project                | ☐     | ☐     |
+
 </details>
 
 <details>
-<summary><b>📅 Week 8 — Phase 2 Integration</b></summary>
+<summary><b>📅 Week 8 — [Phase 2 Integration](02_May/Week_04)</b></summary>
 
 | Days     | Topic                               | Deliverable                                                                |
 | -------- | ----------------------------------- | -------------------------------------------------------------------------- |
 | Mon–Wed | Vehicle Counting + Speed Estimation | Background subtraction + contour tracking + Kalman filter on highway video |
 | Thu–Fri | Portfolio & GitHub Polish           | All Phase 1+2 projects documented with READMEs + demo GIFs                 |
+
+**Daily Attendance Tracking:**
+
+| Day | Topic            | Remote | Campus |
+| --- | ---------------- | ------ | ------ |
+| Mon | Vehicle Counting | ☐     | ☐     |
+| Tue | Vehicle Counting | ☐     | ☐     |
+| Wed | Vehicle Counting | ☐     | ☐     |
+| Thu | Portfolio Polish | ☐     | ☐     |
+| Fri | Portfolio Polish | ☐     | ☐     |
 
 **Phase 2 Capstone:** Vehicle counter + speed estimator on highway dashcam footage.
 
@@ -372,13 +450,13 @@ seaborn>=0.13
 
 ---
 
-## 🟣 Phase 3 — Deep Learning & CNNs for Vision
+## 🟣 Phase 3 — [Deep Learning &amp; CNNs for Vision](03_June)
 
-> **Weeks 9–14 · Months 3–3.5**
+> **Weeks 9–14 · June**
 > From neural network math to Vision Transformers. Build everything before using pretrained weights.
 
 <details>
-<summary><b>📅 Week 9 — Neural Networks Foundations</b></summary>
+<summary><b>📅 Week 9 — [Neural Networks Foundations](03_June/Week_01)</b></summary>
 
 | Day | Topic                 | Key Concepts                                               | Deliverable                              |
 | --- | --------------------- | ---------------------------------------------------------- | ---------------------------------------- |
@@ -388,10 +466,20 @@ seaborn>=0.13
 | Thu | CNN Theory            | Conv layer math, receptive field, feature maps, pooling    | CNN from scratch in PyTorch              |
 | Fri | Project               | Custom dataset                                             | **Project: Custom CNN Classifier** |
 
+**Daily Attendance Tracking:**
+
+| Day | Topic                 | Remote | Campus |
+| --- | --------------------- | ------ | ------ |
+| Mon | MLP Theory            | ☐     | ☐     |
+| Tue | PyTorch Fundamentals  | ☐     | ☐     |
+| Wed | Optimizers & Training | ☐     | ☐     |
+| Thu | CNN Theory            | ☐     | ☐     |
+| Fri | Project               | ☐     | ☐     |
+
 </details>
 
 <details>
-<summary><b>📅 Week 10 — Classic CNN Architectures</b></summary>
+<summary><b>📅 Week 10 — [Classic CNN Architectures](03_June/Week_02)</b></summary>
 
 | Day | Topic                      | Key Concepts                                           | Deliverable                                            |
 | --- | -------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
@@ -401,10 +489,20 @@ seaborn>=0.13
 | Thu | Transfer Learning          | Feature extraction, fine-tuning, layer freezing        | ResNet-50 → custom 5-class                            |
 | Fri | Project                    | Medical domain                                         | **Project: Plant Disease Classifier + Grad-CAM** |
 
+**Daily Attendance Tracking:**
+
+| Day | Topic                      | Remote | Campus |
+| --- | -------------------------- | ------ | ------ |
+| Mon | LeNet → AlexNet → VGGNet | ☐     | ☐     |
+| Tue | ResNet                     | ☐     | ☐     |
+| Wed | Inception & DenseNet       | ☐     | ☐     |
+| Thu | Transfer Learning          | ☐     | ☐     |
+| Fri | Project                    | ☐     | ☐     |
+
 </details>
 
 <details>
-<summary><b>📅 Week 11 — Object Detection with Deep Learning</b></summary>
+<summary><b>📅 Week 11 — [Object Detection with Deep Learning](03_June/Week_03)</b></summary>
 
 | Day | Topic                  | Key Concepts                                              | Deliverable                                                  |
 | --- | ---------------------- | --------------------------------------------------------- | ------------------------------------------------------------ |
@@ -414,10 +512,20 @@ seaborn>=0.13
 | Thu | Custom Training        | LabelImg, YOLO format, Albumentations augmentation        | 200-image custom detector                                    |
 | Fri | Project                | Real-time system                                          | **Project: Real-time Object Detector (webcam + ONNX)** |
 
+**Daily Attendance Tracking:**
+
+| Day | Topic                  | Remote | Campus |
+| --- | ---------------------- | ------ | ------ |
+| Mon | Detection Fundamentals | ☐     | ☐     |
+| Tue | R-CNN Family           | ☐     | ☐     |
+| Wed | YOLO                   | ☐     | ☐     |
+| Thu | Custom Training        | ☐     | ☐     |
+| Fri | Project                | ☐     | ☐     |
+
 </details>
 
 <details>
-<summary><b>📅 Week 12 — Semantic & Instance Segmentation</b></summary>
+<summary><b>📅 Week 12 — [Semantic & Instance Segmentation](03_June/Week_04)</b></summary>
 
 | Day | Topic          | Key Concepts                                                 | Deliverable                                                      |
 | --- | -------------- | ------------------------------------------------------------ | ---------------------------------------------------------------- |
@@ -427,10 +535,20 @@ seaborn>=0.13
 | Thu | SAM + Panoptic | Segment Anything Model, zero-shot segmentation               | SAM vs fine-tuned U-Net                                          |
 | Fri | Project        | Medical domain                                               | **Project: Medical Image Segmentation (U-Net + Dice/IoU)** |
 
+**Daily Attendance Tracking:**
+
+| Day | Topic          | Remote | Campus |
+| --- | -------------- | ------ | ------ |
+| Mon | FCN & U-Net    | ☐     | ☐     |
+| Tue | DeepLab        | ☐     | ☐     |
+| Wed | Mask R-CNN     | ☐     | ☐     |
+| Thu | SAM + Panoptic | ☐     | ☐     |
+| Fri | Project        | ☐     | ☐     |
+
 </details>
 
 <details>
-<summary><b>📅 Weeks 13–14 — Vision Transformers & Attention</b></summary>
+<summary><b>📅 Weeks 13–14 — [Vision Transformers & Attention](03_June)</b></summary>
 
 | Days          | Topic                   | Key Concepts                                               | Deliverable                                                      |
 | ------------- | ----------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------- |
@@ -439,17 +557,32 @@ seaborn>=0.13
 | Wk14 Mon–Wed | Swin + DETR             | Hierarchical ViT, end-to-end detection, bipartite matching | DETR vs YOLOv8 comparison                                        |
 | Wk14 Thu–Fri | Phase 3 Capstone        | Multi-task system                                          | **Capstone: Classify + Detect + Segment unified pipeline** |
 
+**Daily Attendance Tracking:**
+
+| Week | Day | Topic                   | Remote | Campus |
+| ---- | --- | ----------------------- | ------ | ------ |
+| 13   | Mon | Attention & Transformer | ☐     | ☐     |
+| 13   | Tue | Attention & Transformer | ☐     | ☐     |
+| 13   | Wed | Attention & Transformer | ☐     | ☐     |
+| 13   | Thu | ViT & CLIP              | ☐     | ☐     |
+| 13   | Fri | ViT & CLIP              | ☐     | ☐     |
+| 14   | Mon | Swin + DETR             | ☐     | ☐     |
+| 14   | Tue | Swin + DETR             | ☐     | ☐     |
+| 14   | Wed | Swin + DETR             | ☐     | ☐     |
+| 14   | Thu | Capstone                | ☐     | ☐     |
+| 14   | Fri | Capstone                | ☐     | ☐     |
+
 </details>
 
 ---
 
-## 🟠 Phase 4 — Advanced Deep Learning
+## 🟠 Phase 4 — [Advanced Deep Learning](04_July)
 
-> **Weeks 15–18 · Month 4**
+> **Weeks 15–18 · July**
 > GANs, 3D vision, self-supervised learning, and real production deployment.
 
 <details>
-<summary><b>📅 Week 15 — Generative Models</b></summary>
+<summary><b>📅 Week 15 — [Generative Models](04_July/Week_01)</b></summary>
 
 | Day | Topic              | Key Concepts                                         | Deliverable                                                 |
 | --- | ------------------ | ---------------------------------------------------- | ----------------------------------------------------------- |
@@ -459,10 +592,20 @@ seaborn>=0.13
 | Thu | VAEs & Diffusion   | ELBO loss, latent space, Stable Diffusion overview   | VAE + diffusers inference                                   |
 | Fri | Project            | Custom dataset                                       | **Project: Image-to-Image Translation + Gradio Demo** |
 
+**Daily Attendance Tracking:**
+
+| Day | Topic              | Remote | Campus |
+| --- | ------------------ | ------ | ------ |
+| Mon | GAN Theory         | ☐     | ☐     |
+| Tue | DCGAN & StyleGAN   | ☐     | ☐     |
+| Wed | Pix2Pix & CycleGAN | ☐     | ☐     |
+| Thu | VAEs & Diffusion   | ☐     | ☐     |
+| Fri | Project            | ☐     | ☐     |
+
 </details>
 
 <details>
-<summary><b>📅 Week 16 — 3D Computer Vision</b></summary>
+<summary><b>📅 Week 16 — [3D Computer Vision](04_July/Week_02)</b></summary>
 
 | Day | Topic           | Key Concepts                                  | Deliverable                                                  |
 | --- | --------------- | --------------------------------------------- | ------------------------------------------------------------ |
@@ -472,10 +615,20 @@ seaborn>=0.13
 | Thu | NeRF & 3DGS     | Neural Radiance Fields, Gaussian Splatting    | Custom scene with nerfstudio                                 |
 | Fri | Project         | Fusion                                        | **Project: Depth-Aware Background Blur (MiDaS + SAM)** |
 
+**Daily Attendance Tracking:**
+
+| Day | Topic           | Remote | Campus |
+| --- | --------------- | ------ | ------ |
+| Mon | 3D Geometry     | ☐     | ☐     |
+| Tue | Monocular Depth | ☐     | ☐     |
+| Wed | Point Clouds    | ☐     | ☐     |
+| Thu | NeRF & 3DGS     | ☐     | ☐     |
+| Fri | Project         | ☐     | ☐     |
+
 </details>
 
 <details>
-<summary><b>📅 Week 17 — Self-supervised & Contrastive Learning</b></summary>
+<summary><b>📅 Week 17 — [Self-supervised & Contrastive Learning](04_July/Week_03)</b></summary>
 
 | Day      | Topic                   | Key Concepts                                          | Deliverable                                               |
 | -------- | ----------------------- | ----------------------------------------------------- | --------------------------------------------------------- |
@@ -483,10 +636,20 @@ seaborn>=0.13
 | Wed–Thu | MAE & Foundation Models | Masked autoencoders, DINOv2, vision-language models   | DINOv2 few-shot classifier                                |
 | Fri      | Project                 | Few-shot                                              | **Project: 5-Shot Classifier with DINOv2 Features** |
 
+**Daily Attendance Tracking:**
+
+| Day | Topic                   | Remote | Campus |
+| --- | ----------------------- | ------ | ------ |
+| Mon | SimCLR, MoCo, DINO      | ☐     | ☐     |
+| Tue | SimCLR, MoCo, DINO      | ☐     | ☐     |
+| Wed | MAE & Foundation Models | ☐     | ☐     |
+| Thu | MAE & Foundation Models | ☐     | ☐     |
+| Fri | Project                 | ☐     | ☐     |
+
 </details>
 
 <details>
-<summary><b>📅 Week 18 — Model Optimization & Deployment</b></summary>
+<summary><b>📅 Week 18 — [Model Optimization & Deployment](04_July/Week_04)</b></summary>
 
 | Day | Topic                  | Key Concepts                                         | Deliverable                                            |
 | --- | ---------------------- | ---------------------------------------------------- | ------------------------------------------------------ |
@@ -496,17 +659,27 @@ seaborn>=0.13
 | Thu | MLOps                  | W&B, DVC, CI/CD for models                           | Full experiment tracking setup                         |
 | Fri | Capstone               | Full microservice                                    | **Capstone: Dockerized FastAPI CV Microservice** |
 
+**Daily Attendance Tracking:**
+
+| Day | Topic                  | Remote | Campus |
+| --- | ---------------------- | ------ | ------ |
+| Mon | Pruning & Quantization | ☐     | ☐     |
+| Tue | ONNX & TensorRT        | ☐     | ☐     |
+| Wed | Edge Deployment        | ☐     | ☐     |
+| Thu | MLOps                  | ☐     | ☐     |
+| Fri | Capstone               | ☐     | ☐     |
+
 </details>
 
 ---
 
-## 🔴 Phase 5 — Specialization Tracks
+## 🔴 Phase 5 — [Specialization Tracks](05_Agust)
 
-> **Weeks 19–22 · Month 5**
+> **Weeks 19–22 · August**
 > Deep mastery in four applied domains — face recognition, pose estimation, OCR, and autonomous vehicles.
 
 <details>
-<summary><b>📅 Week 19 — Face Recognition & Biometrics</b></summary>
+<summary><b>📅 Week 19 — [Face Recognition & Biometrics](05_Agust/Week_01)</b></summary>
 
 | Days     | Topic                   | Key Concepts                                          | Deliverable                                                      |
 | -------- | ----------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- |
@@ -514,20 +687,40 @@ seaborn>=0.13
 | Wed–Thu | ArcFace & FaceNet       | Triplet loss, ArcFace, CosFace, embedding space       | 1:N identification system                                        |
 | Fri      | Project                 | Real-time system                                      | **Project: Face Recognition Attendance System + Liveness** |
 
+**Daily Attendance Tracking:**
+
+| Day | Topic                   | Remote | Campus |
+| --- | ----------------------- | ------ | ------ |
+| Mon | Advanced Face Detection | ☐     | ☐     |
+| Tue | Advanced Face Detection | ☐     | ☐     |
+| Wed | ArcFace & FaceNet       | ☐     | ☐     |
+| Thu | ArcFace & FaceNet       | ☐     | ☐     |
+| Fri | Project                 | ☐     | ☐     |
+
 </details>
 
 <details>
-<summary><b>📅 Week 20 — Pose Estimation & Body Tracking</b></summary>
+<summary><b>📅 Week 20 — [Pose Estimation & Body Tracking](05_Agust/Week_02)</b></summary>
 
 | Days     | Topic                 | Key Concepts                                            | Deliverable                                                     |
 | -------- | --------------------- | ------------------------------------------------------- | --------------------------------------------------------------- |
 | Mon–Tue | Human Pose Estimation | OpenPose, HRNet, MediaPipe Pose, PAF, heatmaps          | Joint angle extractor                                           |
 | Wed–Fri | Action Recognition    | GCN for skeletons, LSTM temporal modeling, rep counting | **Project: Real-time Exercise Counter (push-up / squat)** |
 
+**Daily Attendance Tracking:**
+
+| Day | Topic                 | Remote | Campus |
+| --- | --------------------- | ------ | ------ |
+| Mon | Human Pose Estimation | ☐     | ☐     |
+| Tue | Human Pose Estimation | ☐     | ☐     |
+| Wed | Action Recognition    | ☐     | ☐     |
+| Thu | Action Recognition    | ☐     | ☐     |
+| Fri | Action Recognition    | ☐     | ☐     |
+
 </details>
 
 <details>
-<summary><b>📅 Week 21 — OCR & Document AI</b></summary>
+<summary><b>📅 Week 21 — [OCR & Document AI](05_Agust/Week_03)</b></summary>
 
 | Days     | Topic            | Key Concepts                                         | Deliverable                                                          |
 | -------- | ---------------- | ---------------------------------------------------- | -------------------------------------------------------------------- |
@@ -535,27 +728,47 @@ seaborn>=0.13
 | Wed      | Text Recognition | CRNN (CNN+BiLSTM+CTC), Tesseract, EasyOCR, PaddleOCR | English + Urdu OCR comparison                                        |
 | Thu–Fri | Project          | Full pipeline                                        | **Project: Document Digitization Pipeline → Structured JSON** |
 
+**Daily Attendance Tracking:**
+
+| Day | Topic            | Remote | Campus |
+| --- | ---------------- | ------ | ------ |
+| Mon | Text Detection   | ☐     | ☐     |
+| Tue | Text Detection   | ☐     | ☐     |
+| Wed | Text Recognition | ☐     | ☐     |
+| Thu | Project          | ☐     | ☐     |
+| Fri | Project          | ☐     | ☐     |
+
 </details>
 
 <details>
-<summary><b>📅 Week 22 — Autonomous Vehicle & Scene Understanding</b></summary>
+<summary><b>📅 Week 22 — [Autonomous Vehicle & Scene Understanding](05_Agust/Week_04)</b></summary>
 
 | Days     | Topic               | Key Concepts                                                | Deliverable                                                                    |
 | -------- | ------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | Mon–Tue | Lane Detection      | Hough + polynomial fit, LaneATT, UFLD, curvature            | Lane detection on dashcam                                                      |
 | Wed–Fri | Multi-sensor Fusion | LiDAR+camera fusion, traffic sign recognition, scene graphs | **Project: Dashcam Analysis System (lanes + detection + signs + speed)** |
 
+**Daily Attendance Tracking:**
+
+| Day | Topic               | Remote | Campus |
+| --- | ------------------- | ------ | ------ |
+| Mon | Lane Detection      | ☐     | ☐     |
+| Tue | Lane Detection      | ☐     | ☐     |
+| Wed | Multi-sensor Fusion | ☐     | ☐     |
+| Thu | Multi-sensor Fusion | ☐     | ☐     |
+| Fri | Multi-sensor Fusion | ☐     | ☐     |
+
 </details>
 
 ---
 
-## 🟩 Phase 6 — Capstone Projects & Portfolio
+## 🟩 Phase 6 — [Capstone Projects &amp; Portfolio](06_September)
 
-> **Weeks 23–26 · Month 6**
+> **Weeks 23–26 · September**
 > Paper implementation, a major end-to-end project, full deployment, and job-ready portfolio.
 
 <details>
-<summary><b>📅 Week 23 — Research Paper Implementation</b></summary>
+<summary><b>📅 Week 23 — [Research Paper Implementation](06_September/Week_01)</b></summary>
 
 Choose one recent CV paper (2023/2024) from the list below and fully implement it:
 
@@ -567,12 +780,20 @@ Choose one recent CV paper (2023/2024) from the list below and fully implement i
 | Depth Anything v2 (Monocular Depth)       | NeurIPS 2024 | ⭐⭐⭐     |
 | DINOv2 (Self-supervised Foundation)       | TMLR 2024    | ⭐⭐⭐⭐   |
 
+**Daily Attendance Tracking:**
+
+- [ ] Monday — Remote / Campus
+- [ ] Tuesday — Remote / Campus
+- [ ] Wednesday — Remote / Campus
+- [ ] Thursday — Remote / Campus
+- [ ] Friday — Remote / Campus
+
 **Deliverable:** Full implementation with ablation study, results table, and technical write-up.
 
 </details>
 
 <details>
-<summary><b>📅 Weeks 24–25 — Major Capstone Project</b></summary>
+<summary><b>📅 Weeks 24–25 — [Major Capstone Project](06_September/Week_02)</b></summary>
 
 Choose one domain application:
 
@@ -587,10 +808,25 @@ Choose one domain application:
 **Week 24:** Design → data → baseline → optimize → ONNX export
 **Week 25:** Full-stack deploy → Dockerize → HuggingFace Spaces / EC2 → demo video + portfolio
 
+**Daily Attendance Tracking:**
+
+| Week | Day | Focus       | Remote | Campus |
+| ---- | --- | ----------- | ------ | ------ |
+| 24   | Mon | Design      | ☐     | ☐     |
+| 24   | Tue | Data        | ☐     | ☐     |
+| 24   | Wed | Baseline    | ☐     | ☐     |
+| 24   | Thu | Optimize    | ☐     | ☐     |
+| 24   | Fri | ONNX Export | ☐     | ☐     |
+| 25   | Mon | Deployment  | ☐     | ☐     |
+| 25   | Tue | Dockerize   | ☐     | ☐     |
+| 25   | Wed | Deployment  | ☐     | ☐     |
+| 25   | Thu | Demo        | ☐     | ☐     |
+| 25   | Fri | Portfolio   | ☐     | ☐     |
+
 </details>
 
 <details>
-<summary><b>📅 Week 26 — Interview Preparation & Launch</b></summary>
+<summary><b>📅 Week 26 — [Interview Preparation & Launch](06_September/Week_04)</b></summary>
 
 | Day      | Focus                                                                         |
 | -------- | ----------------------------------------------------------------------------- |
@@ -598,6 +834,16 @@ Choose one domain application:
 | Wed      | LeetCode array/matrix problems · Implement CV algorithms under time pressure |
 | Thu      | Kaggle CV competition submission · Open source PR (Ultralytics / timm)       |
 | Fri      | Portfolio review · LinkedIn update · Job applications                       |
+
+**Daily Attendance Tracking:**
+
+| Day | Focus                | Remote | Campus |
+| --- | -------------------- | ------ | ------ |
+| Mon | Theory Q&A           | ☐     | ☐     |
+| Tue | Mock Interviews      | ☐     | ☐     |
+| Wed | LeetCode Practice    | ☐     | ☐     |
+| Thu | Kaggle & Open Source | ☐     | ☐     |
+| Fri | Portfolio Review     | ☐     | ☐     |
 
 </details>
 
@@ -761,14 +1007,14 @@ python inference.py --image path/to/image.jpg --visualize
 
 ## 📈 Progress Tracking
 
-| Phase                     | Weeks  | Status         |
-| ------------------------- | ------ | -------------- |
-| Phase 1 — Foundations    | 1–4   | 🔲 In Progress |
-| Phase 2 — Classical ML   | 5–8   | 🔲 In Progress |
-| Phase 3 — Deep Learning  | 9–14  | 🔲 Not Started |
-| Phase 4 — Advanced DL    | 15–18 | 🔲 Not Started |
-| Phase 5 — Specialization | 19–22 | 🔲 Not Started |
-| Phase 6 — Capstone       | 23–26 | 🔲 Not Started |
+| Phase                              | Weeks  | Status         |
+| ---------------------------------- | ------ | -------------- |
+| [Phase 1 — Foundations](01_April)    | 1–4   | 🔲 In Progress |
+| [Phase 2 — Classical ML](02_May)     | 5–8   | 🔲 In Progress |
+| [Phase 3 — Deep Learning](03_June)   | 9–14  | 🔲 Not Started |
+| [Phase 4 — Advanced DL](04_July)     | 15–18 | 🔲 Not Started |
+| [Phase 5 — Specialization](05_Agust) | 19–22 | 🔲 Not Started |
+| [Phase 6 — Capstone](06_September)   | 23–26 | 🔲 Not Started |
 
 > Update this table as you progress. Change 🔲 to ✅ when a phase is complete.
 
