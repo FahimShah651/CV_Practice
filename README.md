@@ -255,13 +255,13 @@ seaborn>=0.13
 
 **Daily Attendance Tracking:**
 
-| Day | Topic                   | Remote | Campus |
-| --- | ----------------------- | ------ | ------ |
-| Mon | Color Spaces            | [ ] | [ ] |
-| Tue | Filtering & Convolution | [ ] | [ ] |
-| Wed | Edge Detection          | [ ] | [ ] |
-| Thu | Morphological Ops       | [ ] | [ ] |
-| Fri | Project                 | [ ] | [ ] |
+| Day | Topic                   | File                                                | Remote | Campus |
+| --- | ----------------------- | --------------------------------------------------- | ------ | ------ |
+| Mon | Color Spaces            | [01_Color Spaces & Channel Processing.ipynb](./01_April/Week_02/01_Color%20Spaces%20%26%20Channel%20Processing.ipynb)            | - [ ] Remote | - [ ] Campus |
+| Tue | Filtering & Convolution | [02_Image Filtering & Convolution Basics.ipynb](./01_April/Week_02/02_Image%20Filtering%20%26%20Convolution%20Basics.ipynb)      | - [ ] Remote | - [ ] Campus |
+| Wed | Edge Detection          | [03_Edge Detection.ipynb](./01_April/Week_02/03_Edge%20Detection.ipynb) | - [ ] Remote | - [ ] Campus |
+| Thu | Morphological Ops       | [04_Morphological Operations.ipynb](./01_April/Week_02/04_Morphological%20Operations.ipynb)          | - [ ] Remote | - [ ] Campus |
+| Fri | Project                 | [05_Image Processing Fundamentals Project.ipynb](./01_April/Week_02/05_Image%20Processing%20Fundamentals%20Project.ipynb)     | - [ ] Remote | - [ ] Campus |
 
 **Week 2 Project:** Modular image preprocessing class — parameterized, handles denoise → edge → color space conversion for any input image type.
 
@@ -282,11 +282,11 @@ seaborn>=0.13
 
 | Day | Topic                     | Remote | Campus |
 | --- | ------------------------- | ------ | ------ |
-| Mon | Geometric Transformations | [ ] | [ ] |
-| Tue | Contours & Shape Analysis | [ ] | [ ] |
-| Wed | Hough Transforms          | [ ] | [ ] |
-| Thu | Segmentation              | [ ] | [ ] |
-| Fri | Project                   | [ ] | [ ] |
+| Mon | Geometric Transformations | - [ ] | - [ ] |
+| Tue | Contours & Shape Analysis | - [ ] | - [ ] |
+| Wed | Hough Transforms          | - [ ] | - [ ] |
+| Thu | Segmentation              | - [ ] | - [ ] |
+| Fri | Project                   | - [ ] | - [ ] |
 
 **Week 3 Project:** Smart Document Scanner — phone photo → edge detection → perspective warp → flattened OCR-ready output.
 
@@ -307,11 +307,11 @@ seaborn>=0.13
 
 | Day | Topic             | Remote | Campus |
 | --- | ----------------- | ------ | ------ |
-| Mon | Harris & FAST     | [ ] | [ ] |
-| Tue | SIFT / SURF / ORB | [ ] | [ ] |
-| Wed | Feature Matching  | [ ] | [ ] |
-| Thu | Optical Flow      | [ ] | [ ] |
-| Fri | Capstone          | [ ] | [ ] |
+| Mon | Harris & FAST     | - [ ] | - [ ] |
+| Tue | SIFT / SURF / ORB | - [ ] | - [ ] |
+| Wed | Feature Matching  | - [ ] | - [ ] |
+| Thu | Optical Flow      | - [ ] | - [ ] |
+| Fri | Capstone          | - [ ] | - [ ] |
 
 **Phase 1 Capstone:** Panorama Stitcher — SIFT → ratio test matching → RANSAC homography → multi-image warp + blend. CLI interface. GitHub repo.
 
