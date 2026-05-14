@@ -81,11 +81,11 @@ CV_Practice/
 │
 ├── 01_April/                    ← Phase 1: Python & Math Foundations
 │   ├── Week_01/                 ← Python & NumPy for Images
-│   │   ├── Day_01/
-│   │   ├── Day_02/
-│   │   ├── Day_03/
-│   │   ├── Day_04/
-│   │   └── Day_05/
+│   │   ├── 01_file_of_the_day_1/
+│   │   ├── 02_file_of_the_day_2/
+│   │   ├── 03_file_of_the_day_3/
+│   │   ├── 04_file_of_the_day_4/
+│   │   └── 05_file_of_the_day_5/
 │   ├── Week_02/                 ← Image Processing Fundamentals
 │   ├── Week_03/                 ← Geometric Transforms & Contours
 │   └── Week_04/                 ← Feature Detection & Description
@@ -239,11 +239,11 @@ seaborn>=0.13
 
 | Day | Topic                        | File                                                                                                                                                                                                | Remote | Campus |
 | --- | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
-| Mon | Environment Setup + NumPy    | [01_Python environment setup + NumPy basics.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_01/Day_01/01_Python%20environment%20setup%20+%20NumPy%20basics.ipynb)           |        | Campus |
-| Tue | Image Representation         | [02_Image representation with NumPy.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_01/Day_02/02_Image%20representation%20with%20NumPy.ipynb)                               |        | Campus |
-| Wed | Linear Algebra for CV        | [03_Linear algebra for CV.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_01/Day_03/03_Linear%20algebra%20for%20CV.ipynb)                                                   |        | Campus |
-| Thu | Probability & Statistics     | [04_Probability &amp; statistics for CV.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_01/Day_04/04_Probability%20%26%20statistics%20for%20CV.ipynb)                       |        | Campus |
-| Fri | Calculus Intuition + Project | [05_Calculus intuition for CV + Week 1 project.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_01/Day_05/05_Calculus%20intuition%20for%20CV%20+%20Week%201%20project.ipynb) | -      | Campus |
+| Mon | Environment Setup + NumPy    | [01_Python environment setup + NumPy basics.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_01/01_Python%20environment%20setup%20+%20NumPy%20basics.ipynb)           |        | Campus |
+| Tue | Image Representation         | [02_Image representation with NumPy.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_01/02_Image%20representation%20with%20NumPy.ipynb)                               |        | Campus |
+| Wed | Linear Algebra for CV        | [03_Linear algebra for CV.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_01/03_Linear%20algebra%20for%20CV.ipynb)                                                   |        | Campus |
+| Thu | Probability & Statistics     | [04_Probability &amp; statistics for CV.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_01/04_Probability%20%26%20statistics%20for%20CV.ipynb)                       |        | Campus |
+| Fri | Calculus Intuition + Project | [05_Calculus intuition for CV + Week 1 project.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_01/05_Calculus%20intuition%20for%20CV%20+%20Week%201%20project.ipynb) | -      | Campus |
 
 **Week 1 Project:** Image Stats Dashboard — input any image, output histogram, mean, std, min/max, channel breakdown with Matplotlib visualization.
 
@@ -346,11 +346,11 @@ seaborn>=0.13
 
 | Day | Topic                    | File                                                                                                                                                                | Remote | Campus |
 | --- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
-| Mon | ML Core + scikit-learn   | [01_ML Core + scikit-learn.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_01/Day_01/01_ML%20Core%20+%20scikit-learn.ipynb)                   | Remote |        |
-| Tue | HOG & LBP Features       | [02_HOG &amp; LBP Image Features.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_01/Day_02/02_HOG%20%26%20LBP%20Image%20Features.ipynb)       | Remote |        |
-| Wed | PCA & Eigenfaces         | [03_PCA &amp; Eigenfaces.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_01/Day_03/03_PCA%20%26%20Eigenfaces.ipynb)                           | Remote |        |
-| Thu | Sliding Window Detection | [04_Sliding Window &amp; Viola-Jones.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_01/Day_04/04_Sliding%20Window%20%26%20Viola-Jones.ipynb) |        | Campus |
-| Fri | Project                  | [05_Face Detection System.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_01/Day_05/05_Face%20Detection%20System.ipynb)                       |        | Campus |
+| Mon | ML Core + scikit-learn   | [01_ML Core + scikit-learn.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_01/01_ML%20Core%20+%20scikit-learn.ipynb)                   | Remote |        |
+| Tue | HOG & LBP Features       | [02_HOG &amp; LBP Image Features.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_01/02_HOG%20%26%20LBP%20Image%20Features.ipynb)       | Remote |        |
+| Wed | PCA & Eigenfaces         | [03_PCA &amp; Eigenfaces.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_01/03_PCA%20%26%20Eigenfaces.ipynb)                           | Remote |        |
+| Thu | Sliding Window Detection | [04_Sliding Window &amp; Viola-Jones.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_01/04_Sliding%20Window%20%26%20Viola-Jones.ipynb) |        | Campus |
+| Fri | Project                  | [05_Face Detection System.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_01/05_Face%20Detection%20System.ipynb)                       |        | Campus |
 
 </details>
 
@@ -368,9 +368,9 @@ seaborn>=0.13
 
 | Day | Topic                 | File                                                                                                                                                        | Remote       | Campus       |
 | --- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------ |
-| Mon | k-Means + BoVW        | [01_k-Means + Visual Vocabulary.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_02/Day_01/01_k-Means%20+%20Visual%20Vocabulary.ipynb) |              | Campus       |
-| Tue | BoVW from Scratch     | [02_BoVW from Scratch.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_02/Day_02/02_BoVW%20from%20Scratch.ipynb)                       | Remote       |              |
-| Wed | Image Retrieval       | [03_Image Retrieval System.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_02/Day_03/03_Image%20Retrieval%20System.ipynb)             | Remote       |              |
+| Mon | k-Means + BoVW        | [01_k-Means + Visual Vocabulary.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_02/01_k-Means%20+%20Visual%20Vocabulary.ipynb) |              | Campus       |
+| Tue | BoVW from Scratch     | [02_BoVW from Scratch.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_02/02_BoVW%20from%20Scratch.ipynb)                       | Remote       |              |
+| Wed | Image Retrieval       | [03_Image Retrieval System.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_02/03_Image%20Retrieval%20System.ipynb)             | Remote       |              |
 | Thu | CV Evaluation Metrics | [04_CV Evaluation Metrics.ipynb](./02_May/Week_02/04_CV%20Evaluation%20Metrics.ipynb)                                                                          | Remote       |              |
 | Fri | Project               | —                                                                                                                                                          | - [ ] Remote | - [ ] Campus |
 
