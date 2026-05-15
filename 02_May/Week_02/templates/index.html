@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CBIR - Content-Based Image Retrieval System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1><i class="fas fa-image"></i> CBIR System</h1>
+                <p>Content-Based Image Retrieval</p>
+            </div>
+            <div class="stats-bar">
+                <div class="stat">
+                    <span class="stat-label">Dataset Images:</span>
+                    <span class="stat-value" id="dataset-count">{{ dataset_count }}</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Indexed:</span>
+                    <span class="stat-value" id="indexed-count">{{ indexed_count }}</span>
+                </div>
+                <button class="btn-rebuild" onclick="rebuildIndex()" title="Rebuild the image index">
+                    <i class="fas fa-sync"></i> Rebuild Index
+                </button>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Upload Section -->
+            <section class="upload-section">
+                <div class="upload-container">
+                    <div class="upload-area" id="upload-area">
+                        <i class="fas fa-cloud-upload-alt upload-icon"></i>
+                        <h2>Upload Query Image</h2>
+                        <p>Drag and drop your image here or click to browse</p>
+                        <input type="file" id="file-input" accept="image/*" hidden>
+                        <p class="file-hint">Supported formats: JPG, PNG, BMP, GIF, TIFF (Max 16MB)</p>
+                    </div>
+                    
+                    <!-- Search Options -->
+                    <div class="search-options">
+                        <label for="top-k">Number of results:</label>
+                        <select id="top-k">
+                            <option value="5">5 Results</option>
+                            <option value="10" selected>10 Results</option>
+                            <option value="15">15 Results</option>
+                            <option value="20">20 Results</option>
+                            <option value="30">30 Results</option>
+                        </select>
+                    </div>
+
+                    <!-- Query Image Preview -->
+                    <div id="query-preview-container" class="hidden">
+                        <h3>Query Image</h3>
+                        <img id="query-preview" src="" alt="Query image preview" class="query-preview">
+                        <button class="btn-secondary" onclick="clearQuery()">Clear & Search Again</button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Results Section -->
+            <section id="results-section" class="results-section hidden">
+                <div class="results-header">
+                    <h2><i class="fas fa-search"></i> Search Results</h2>
+                    <p class="result-count" id="result-count"></p>
+                </div>
+
+                <div id="loading-spinner" class="loading hidden">
+                    <div class="spinner"></div>
+                    <p>Searching for similar images...</p>
+                </div>
+
+                <div id="results-container" class="results-grid">
+                    <!-- Results will be populated here -->
+                </div>
+            </section>
+
+            <!-- Sample Images Section -->
+            <section class="samples-section">
+                <h2><i class="fas fa-image"></i> Browse Dataset Samples</h2>
+                <div id="samples-container" class="samples-grid">
+                    <div class="loading">
+                        <div class="spinner"></div>
+                        <p>Loading sample images...</p>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>&copy; 2024 CBIR Flask Web App | Content-Based Image Retrieval System</p>
+        </footer>
+
+        <!-- Error Modal -->
+        <div id="error-modal" class="modal hidden">
+            <div class="modal-content">
+                <span class="close" onclick="closeErrorModal()">&times;</span>
+                <h2>Error</h2>
+                <p id="error-message"></p>
+                <button class="btn-primary" onclick="closeErrorModal()">OK</button>
+            </div>
+        </div>
+
+        <!-- Info Modal -->
+        <div id="info-modal" class="modal hidden">
+            <div class="modal-content">
+                <span class="close" onclick="closeInfoModal()">&times;</span>
+                <h2><i class="fas fa-info-circle"></i> Information</h2>
+                <p id="info-message"></p>
+                <button class="btn-primary" onclick="closeInfoModal()">OK</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
