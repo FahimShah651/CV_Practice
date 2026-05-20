@@ -237,8 +237,8 @@ seaborn>=0.13
 
 **Daily Attendance Tracking:**
 
-| Day | Topic                        | File                                                                                                                                                                                                | Remote | Campus |
-| --- | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| Day | Topic                        | File                                                                                                                                                                                         | Remote | Campus |
+| --- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
 | Mon | Environment Setup + NumPy    | [01_Python environment setup + NumPy basics.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_01/01_Python%20environment%20setup%20+%20NumPy%20basics.ipynb)           |        | Campus |
 | Tue | Image Representation         | [02_Image representation with NumPy.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_01/02_Image%20representation%20with%20NumPy.ipynb)                               |        | Campus |
 | Wed | Linear Algebra for CV        | [03_Linear algebra for CV.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_01/03_Linear%20algebra%20for%20CV.ipynb)                                                   |        | Campus |
@@ -344,8 +344,8 @@ seaborn>=0.13
 
 **Daily Attendance Tracking:**
 
-| Day | Topic                    | File                                                                                                                                                                | Remote | Campus |
-| --- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| Day | Topic                    | File                                                                                                                                                         | Remote | Campus |
+| --- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------ |
 | Mon | ML Core + scikit-learn   | [01_ML Core + scikit-learn.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_01/01_ML%20Core%20+%20scikit-learn.ipynb)                   | Remote |        |
 | Tue | HOG & LBP Features       | [02_HOG &amp; LBP Image Features.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_01/02_HOG%20%26%20LBP%20Image%20Features.ipynb)       | Remote |        |
 | Wed | PCA & Eigenfaces         | [03_PCA &amp; Eigenfaces.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_01/03_PCA%20%26%20Eigenfaces.ipynb)                           | Remote |        |
@@ -366,13 +366,13 @@ seaborn>=0.13
 
 **Daily Attendance Tracking:**
 
-| Day | Topic                 | File                                                                                                                                                        | Remote       | Campus       |
-| --- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------ |
-| Mon | k-Means + BoVW        | [01_k-Means + Visual Vocabulary.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_02/01_k-Means%20+%20Visual%20Vocabulary.ipynb) |              | Campus       |
-| Tue | BoVW from Scratch     | [02_BoVW from Scratch.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_02/02_BoVW%20from%20Scratch.ipynb)                       | Remote       |              |
-| Wed | Image Retrieval       | [03_Image Retrieval System.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_02/03_Image%20Retrieval%20System.ipynb)             | Remote       |              |
-| Thu | CV Evaluation Metrics | [04_CV Evaluation Metrics.ipynb](./02_May/Week_02/04_CV%20Evaluation%20Metrics.ipynb)                                                                          | Remote       |              |
-| Fri | Project               | [app.py](./02_May/Week_02)                                                                                                                                                          | Remote |  |
+| Day | Topic                 | File                                                                                                                                                        | Remote | Campus |
+| --- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| Mon | k-Means + BoVW        | [01_k-Means + Visual Vocabulary.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_02/01_k-Means%20+%20Visual%20Vocabulary.ipynb) |        | Campus |
+| Tue | BoVW from Scratch     | [02_BoVW from Scratch.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_02/02_BoVW%20from%20Scratch.ipynb)                       | Remote |        |
+| Wed | Image Retrieval       | [03_Image Retrieval System.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_02/03_Image%20Retrieval%20System.ipynb)             | Remote |        |
+| Thu | CV Evaluation Metrics | [04_CV Evaluation Metrics.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_02/04_CV%20Evaluation%20Metrics.ipynb)               | Remote |        |
+| Fri | Project               | [05_PROJECT_CBIR Flask Web App.py](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_02/05_PROJECT_CBIR%20Flask%20Web%20App.py)         | Remote |        |
 
 </details>
 
@@ -391,9 +391,9 @@ seaborn>=0.13
 
 | Day | Topic                  | Remote | Campus |
 | --- | ---------------------- | ------ | ------ |
-| Mon | Background Subtraction | [ ]    | [ ]    |
-| Tue | Object Tracking        | [ ]    | [ ]    |
-| Wed | Dense Optical Flow     | [ ]    | [ ]    |
+| Mon | Background Subtraction |        | Campus |
+| Tue | Object Tracking        |        | Campus |
+| Wed | Dense Optical Flow     |        | Campus |
 | Thu | Camera Calibration     | [ ]    | [ ]    |
 | Fri | Project                | [ ]    | [ ]    |
 
