@@ -372,7 +372,7 @@ seaborn>=0.13
 | Tue | BoVW from Scratch     | [02_BoVW from Scratch.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_02/02_BoVW%20from%20Scratch.ipynb)                       | Remote       |              |
 | Wed | Image Retrieval       | [03_Image Retrieval System.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_02/03_Image%20Retrieval%20System.ipynb)             | Remote       |              |
 | Thu | CV Evaluation Metrics | [04_CV Evaluation Metrics.ipynb](./02_May/Week_02/04_CV%20Evaluation%20Metrics.ipynb)                                                                          | Remote       |              |
-| Fri | Project               | —                                                                                                                                                          | - [ ] Remote | - [ ] Campus |
+| Fri | Project               | [app.py](./02_May/Week_02)                                                                                                                                                          | Remote |  |
 
 </details>
 
@@ -443,11 +443,11 @@ seaborn>=0.13
 
 | Day | Topic                 | Remote | Campus |
 | --- | --------------------- | ------ | ------ |
-| Mon | MLP Theory            | [ ]    | [ ]    |
-| Tue | PyTorch Fundamentals  | [ ]    | [ ]    |
-| Wed | Optimizers & Training | [ ]    | [ ]    |
-| Thu | CNN Theory            | [ ]    | [ ]    |
-| Fri | Project               | [ ]    | [ ]    |
+| Mon | MLP Theory            |     | Campus    |
+| Tue | PyTorch Fundamentals  |    | Campus  |
+| Wed | Optimizers & Training |    | Campus   |
+| Thu | CNN Theory            |   | Campus  |
+| Fri | Project               |    | Campus   |
 
 </details>
 
