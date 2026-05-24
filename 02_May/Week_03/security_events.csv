@@ -1,0 +1,8 @@
+timestamp,event,clip,max_area_px
+2026-05-25 02:13:29,motion_test,security_clips\test_clip.mp4,3600
+2026-05-25 02:13:54,motion,security_clips\motion_20260525_021340.mp4,67200.0
+2026-05-25 02:14:11,motion,security_clips\motion_20260525_021404.mp4,19307.0
+2026-05-25 02:15:43,motion_test,security_clips\test_clip.mp4,3600
+2026-05-25 02:16:07,motion_test,security_clips\test_clip.mp4,3600
+2026-05-25 02:16:40,motion,security_clips\motion_20260525_021610.mp4,18990.0
+2026-05-25 02:16:48,motion,security_clips\motion_20260525_021647.mp4,19753.5

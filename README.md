@@ -55,6 +55,11 @@ This repository is a **self-taught, structured Computer Vision curriculum** buil
 ## 📝 Today's Attendance
 
 - 2026-05-14: Remote work (work from home)
+- 2026-05-25: Remote — Vehicle Counter Design (Week 8, Mon)
+- 2026-05-26: Remote — Speed Estimation System (Week 8, Tue)
+- 2026-05-27: Remote — Polish & End-to-End Testing (Week 8, Wed)
+- 2026-05-28: Remote — GitHub Documentation (Week 8, Thu)
+- 2026-05-29: Remote — Portfolio Write-up (Week 8, Fri)
 
 ---
 
@@ -91,11 +96,30 @@ CV_Practice/
 │   └── Week_04/                 ← Feature Detection & Description
 │
 ├── 02_May/                      ← Phase 2: Classical ML for Vision
-│   ├── Week_01/                 ← ML Fundamentals
-│   ├── Week_02/                 ← Bag of Visual Words & Clustering
+│   ├── Week_01/                 ← ML Fundamentals (Week 5)
+│   │   ├── 01_ML Core + scikit-learn.ipynb
+│   │   ├── 02_HOG & LBP Image Features.ipynb
+│   │   ├── 03_PCA & Eigenfaces.ipynb
+│   │   ├── 04_Sliding Window & Viola-Jones.ipynb
+│   │   └── 05_Face Detection System.ipynb
+│   ├── Week_02/                 ← Bag of Visual Words & Clustering (Week 6)
+│   │   ├── 01_k-Means + Visual Vocabulary.ipynb
+│   │   ├── 02_BoVW from Scratch.ipynb
+│   │   ├── 03_Image Retrieval System.ipynb
 │   │   ├── 04_CV Evaluation Metrics.ipynb
-│   ├── Week_03/                 ← Video Analysis & Motion
-│   └── Week_04/                 ← Phase 2 Integration
+│   │   └── 05_PROJECT_CBIR Flask Web App.py
+│   ├── Week_03/                 ← Video Analysis & Motion (Week 7)
+│   │   ├── 01_Background Subtraction.ipynb
+│   │   ├── 02_Object Tracking.ipynb
+│   │   ├── 03_Dense Optical Flow.ipynb
+│   │   ├── 04_Camera Calibration & 3D Basics.ipynb
+│   │   └── PROJECT Motion Security System.ipynb
+│   └── Week_04/                 ← Phase 2 Integration (Week 8)
+│       ├── 01_Vehicle Counter — Design.ipynb
+│       ├── 02_Speed Estimation System.ipynb
+│       ├── 03_Polish & End-to-End Testing.ipynb
+│       ├── 04_GitHub Documentation.ipynb
+│       └── 05_Portfolio Write-up.ipynb
 │
 ├── 03_June/                     ← Phase 3: Deep Learning & CNNs
 │   ├── Week_01/                 ← Neural Networks Foundations
@@ -389,35 +413,38 @@ seaborn>=0.13
 
 **Daily Attendance Tracking:**
 
-| Day | Topic                  | Remote | Campus |
-| --- | ---------------------- | ------ | ------ |
-| Mon | Background Subtraction |        | Campus |
-| Tue | Object Tracking        |        | Campus |
-| Wed | Dense Optical Flow     |        | Campus |
-| Thu | Camera Calibration     | [ ]    | [ ]    |
-| Fri | Project                | [ ]    | [ ]    |
+| Day | Topic                  | File                                                                                                                                                                                              | Remote | Campus |
+| --- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| Mon | Background Subtraction | [01_Background Subtraction.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_03/01_Background%20Subtraction.ipynb)                                                     |        | Campus |
+| Tue | Object Tracking        | [02_Object Tracking.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_03/02_Object%20Tracking.ipynb)                                                                   |        | Campus |
+| Wed | Dense Optical Flow     | [03_Dense Optical Flow.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_03/03_Dense%20Optical%20Flow.ipynb)                                                           |        | Campus |
+| Thu | Camera Calibration     | [04_Camera Calibration & 3D Basics.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_03/04_Camera%20Calibration%20%26%203D%20Basics.ipynb)                             |        | Campus |
+| Fri | Project                | [PROJECT Motion Security System.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_03/PROJECT%20Motion%20Security%20System.ipynb)                                       |        | Campus |
 
 </details>
 
 <details>
 <summary><b>📅 Week 8 — [Phase 2 Integration](./02_May/Week_04)</b></summary>
 
-| Days     | Topic                               | Deliverable                                                                |
-| -------- | ----------------------------------- | -------------------------------------------------------------------------- |
-| Mon–Wed | Vehicle Counting + Speed Estimation | Background subtraction + contour tracking + Kalman filter on highway video |
-| Thu–Fri | Portfolio & GitHub Polish           | All Phase 1+2 projects documented with READMEs + demo GIFs                 |
+| Day | Date   | Topic                          | Key Concepts                                                       | Deliverable                                          |
+| --- | ------ | ------------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------- |
+| Mon | May 25 | Vehicle Counter — Design       | Background subtraction, centroid tracking, Kalman filter, counting | Vehicle counter notebook with full pipeline design   |
+| Tue | May 26 | Speed Estimation System        | Perspective transform, pixel→metre calibration, speed in km/h     | Speed estimator with bird's-eye view                 |
+| Wed | May 27 | Polish & End-to-End Testing    | Parameter tuning, MOG2 thresholds, FPS profiling, blob splitting   | Optimised, profiled pipeline                         |
+| Thu | May 28 | GitHub Documentation           | README templates, demo GIFs with imageio, requirements.txt         | Documented repos for all Phase 2 projects            |
+| Fri | May 29 | Portfolio Write-up             | LinkedIn post, blog outline, skills self-assessment, project table | Phase 1+2 GitHub portfolio with 5+ documented repos  |
 
 **Daily Attendance Tracking:**
 
-| Day | Topic            | Remote | Campus |
-| --- | ---------------- | ------ | ------ |
-| Mon | Vehicle Counting | [ ]    | [ ]    |
-| Tue | Vehicle Counting | [ ]    | [ ]    |
-| Wed | Vehicle Counting | [ ]    | [ ]    |
-| Thu | Portfolio Polish | [ ]    | [ ]    |
-| Fri | Portfolio Polish | [ ]    | [ ]    |
+| Day | Date   | Topic                       | File                                                                                                                                                                                                                         | Remote | Campus |
+| --- | ------ | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| Mon | May 25 | Vehicle Counter — Design    | [01_Vehicle Counter — Design.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_04/01_Vehicle%20Counter%20%E2%80%94%20Design.ipynb)                                                                   | Remote |        |
+| Tue | May 26 | Speed Estimation System     | [02_Speed Estimation System.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_04/02_Speed%20Estimation%20System.ipynb)                                                                               | Remote |        |
+| Wed | May 27 | Polish & End-to-End Testing | [03_Polish & End-to-End Testing.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_04/03_Polish%20%26%20End-to-End%20Testing.ipynb)                                                                   | Remote |        |
+| Thu | May 28 | GitHub Documentation        | [04_GitHub Documentation.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_04/04_GitHub%20Documentation.ipynb)                                                                                       | Remote |        |
+| Fri | May 29 | Portfolio Write-up          | [05_Portfolio Write-up.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/02_May/Week_04/05_Portfolio%20Write-up.ipynb)                                                                                           | Remote |        |
 
-**Phase 2 Capstone:** Vehicle counter + speed estimator on highway dashcam footage.
+**Phase 2 Capstone:** Vehicle counter + speed estimator on highway dashcam footage — full pipeline from background subtraction through Kalman tracking to km/h readout and GitHub-documented portfolio.
 
 </details>
 
