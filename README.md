@@ -60,6 +60,9 @@ This repository is a **self-taught, structured Computer Vision curriculum** buil
 - 2026-05-27: Remote — Polish & End-to-End Testing (Week 8, Wed)
 - 2026-05-28: Remote — GitHub Documentation (Week 8, Thu)
 - 2026-05-29: Remote — Portfolio Write-up (Week 8, Fri)
+- 2026-06-02: Campus — MLP Theory (Week 9, Mon)
+- 2026-06-03: Campus — PyTorch Fundamentals (Week 9, Tue)
+- 2026-06-04: Campus — Optimizers & Training (Week 9, Wed)
 
 ---
 
@@ -122,7 +125,10 @@ CV_Practice/
 │       └── 05_Portfolio Write-up.ipynb
 │
 ├── 03_June/                     ← Phase 3: Deep Learning & CNNs
-│   ├── Week_01/                 ← Neural Networks Foundations
+│   ├── Week_01/                 ← Neural Networks Foundations (Week 9)
+│   │   ├── 01_MLP Theory.ipynb
+│   │   ├── 02_PyTorch Fundamentals.ipynb
+│   │   └── 03_Optimizers & Training.ipynb
 │   ├── Week_02/                 ← Classic CNN Architectures
 │   ├── Week_03/                 ← Object Detection
 │   ├── Week_04/                 ← Segmentation
@@ -468,13 +474,13 @@ seaborn>=0.13
 
 **Daily Attendance Tracking:**
 
-| Day | Topic                 | Remote | Campus |
-| --- | --------------------- | ------ | ------ |
-| Mon | MLP Theory            |     | Campus    |
-| Tue | PyTorch Fundamentals  |    | Campus  |
-| Wed | Optimizers & Training |    | Campus   |
-| Thu | CNN Theory            |   | Campus  |
-| Fri | Project               |    | Campus   |
+| Day | Topic                 | File                                                                                                                                                                                        | Remote | Campus |
+| --- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| Mon | MLP Theory            | [01_MLP Theory.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_01/01_MLP%20Theory.ipynb)                                                                       |        | Campus |
+| Tue | PyTorch Fundamentals  | [02_PyTorch Fundamentals.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_01/02_PyTorch%20Fundamentals.ipynb)                                                   |        | Campus |
+| Wed | Optimizers & Training | [03_Optimizers & Training.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_01/03_Optimizers%20%26%20Training.ipynb)                                             |        | Campus |
+| Thu | CNN Theory            |                                                                                                                                                                                             |        | Campus |
+| Fri | Project               |                                                                                                                                                                                             |        | Campus |
 
 </details>
 
