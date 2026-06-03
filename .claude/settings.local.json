@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(python \"c:/Users/User/Desktop/CV_Practice/gen_vehicle.py\")",
+      "Bash(python \"c:/Users/User/Desktop/CV_Practice/gen_week4.py\")",
+      "Bash(python -c \"import os; files = os.listdir\\('c:/Users/User/Desktop/CV_Practice/02_May/Week_04'\\); [print\\(repr\\(f\\)\\) for f in sorted\\(files\\)]\")",
+      "Bash(git -C \"c:/Users/User/Desktop/CV_Practice\" status)",
+      "Bash(git -C \"c:/Users/User/Desktop/CV_Practice\" rebase --continue)",
+      "Bash(git -C \"c:/Users/User/Desktop/CV_Practice\" diff --name-only --diff-filter=U)",
+      "Bash(git -C \"c:/Users/User/Desktop/CV_Practice\" log --oneline -5)"
+    ]
+  }
+}
