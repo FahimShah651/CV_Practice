@@ -63,6 +63,10 @@ This repository is a **self-taught, structured Computer Vision curriculum** buil
 - 2026-06-02: Campus — MLP Theory (Week 9, Mon)
 - 2026-06-03: Campus — PyTorch Fundamentals (Week 9, Tue)
 - 2026-06-04: Campus — Optimizers & Training (Week 9, Wed)
+- 2026-06-05: Remote — CNN Theory (Week 9, Thu)
+- 2026-06-06: Remote — PROJECT Custom CNN Classifier (Week 9, Fri)
+- 2026-06-08: Remote — LeNet to AlexNet to VGGNet (Week 10, Mon)
+- 2026-06-09: Campus — ResNet (Week 10, Tue)
 
 ---
 
@@ -128,8 +132,12 @@ CV_Practice/
 │   ├── Week_01/                 ← Neural Networks Foundations (Week 9)
 │   │   ├── 01_MLP Theory.ipynb
 │   │   ├── 02_PyTorch Fundamentals.ipynb
-│   │   └── 03_Optimizers & Training.ipynb
-│   ├── Week_02/                 ← Classic CNN Architectures
+│   │   ├── 03_Optimizers & Training.ipynb
+│   │   ├── 04_CNN Theory.ipynb
+│   │   └── 05_PROJECT Custom CNN Classifier.ipynb
+│   ├── Week_02/                 ← Classic CNN Architectures (Week 10)
+│   │   ├── 01_LeNet to AlexNet to VGGNet.ipynb
+│   │   └── 02_ResNet.ipynb
 │   ├── Week_03/                 ← Object Detection
 │   ├── Week_04/                 ← Segmentation
 │   ├── Week_05/                 ← Vision Transformers (Week 13)
@@ -479,8 +487,8 @@ seaborn>=0.13
 | Mon | MLP Theory            | [01_MLP Theory.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_01/01_MLP%20Theory.ipynb)                                                                       |        | Campus |
 | Tue | PyTorch Fundamentals  | [02_PyTorch Fundamentals.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_01/02_PyTorch%20Fundamentals.ipynb)                                                   |        | Campus |
 | Wed | Optimizers & Training | [03_Optimizers & Training.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_01/03_Optimizers%20%26%20Training.ipynb)                                             |        | Campus |
-| Thu | CNN Theory            |                                                                                                                                                                                             |        | Campus |
-| Fri | Project               |                                                                                                                                                                                             |        | Campus |
+| Thu | CNN Theory            | [04_CNN Theory.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_01/04_CNN%20Theory.ipynb)                                                                       | Remote |        |
+| Fri | Project               | [05_PROJECT Custom CNN Classifier.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_01/05_PROJECT%20Custom%20CNN%20Classifier.ipynb)                             | Remote |        |
 
 </details>
 
@@ -497,13 +505,13 @@ seaborn>=0.13
 
 **Daily Attendance Tracking:**
 
-| Day | Topic                      | Remote | Campus |
-| --- | -------------------------- | ------ | ------ |
-| Mon | LeNet → AlexNet → VGGNet | [ ]    | [ ]    |
-| Tue | ResNet                     | [ ]    | [ ]    |
-| Wed | Inception & DenseNet       | [ ]    | [ ]    |
-| Thu | Transfer Learning          | [ ]    | [ ]    |
-| Fri | Project                    | [ ]    | [ ]    |
+| Day | Topic                      | File                                                                                                                                                                                                  | Remote | Campus |
+| --- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| Mon | LeNet → AlexNet → VGGNet | [01_LeNet to AlexNet to VGGNet.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_02/01_LeNet%20to%20AlexNet%20to%20VGGNet.ipynb)                                           | Remote |        |
+| Tue | ResNet                     | [02_ResNet.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_02/02_ResNet.ipynb)                                                                                             |        | Campus |
+| Wed | Inception & DenseNet       |                                                                                                                                                                                                       |        |        |
+| Thu | Transfer Learning          |                                                                                                                                                                                                       |        |        |
+| Fri | Project                    |                                                                                                                                                                                                       |        |        |
 
 </details>
 
