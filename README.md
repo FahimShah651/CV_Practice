@@ -67,6 +67,7 @@ This repository is a **self-taught, structured Computer Vision curriculum** buil
 - 2026-06-06: Remote — PROJECT Custom CNN Classifier (Week 9, Fri)
 - 2026-06-08: Remote — LeNet to AlexNet to VGGNet (Week 10, Mon)
 - 2026-06-09: Campus — ResNet (Week 10, Tue)
+- 2026-06-10: Campus — Inception & DenseNet (Week 10, Wed)
 
 ---
 
@@ -509,7 +510,7 @@ seaborn>=0.13
 | --- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
 | Mon | LeNet → AlexNet → VGGNet | [01_LeNet to AlexNet to VGGNet.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_02/01_LeNet%20to%20AlexNet%20to%20VGGNet.ipynb)                                           | Remote |        |
 | Tue | ResNet                     | [02_ResNet.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_02/02_ResNet.ipynb)                                                                                             |        | Campus |
-| Wed | Inception & DenseNet       |                                                                                                                                                                                                       |        |        |
+| Wed | Inception & DenseNet       | [03_Inception & DenseNet.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_02/03_Inception%20%26%20DenseNet.ipynb)                                                         |        | Campus |
 | Thu | Transfer Learning          |                                                                                                                                                                                                       |        |        |
 | Fri | Project                    |                                                                                                                                                                                                       |        |        |
 

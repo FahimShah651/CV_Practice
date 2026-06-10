@@ -101,7 +101,7 @@
 | 2026-06-07 | Sunday    | Holiday | -      |
 | 2026-06-08 | Monday    | P       | Remote |
 | 2026-06-09 | Tuesday   | P       | Campus |
-| 2026-06-10 | Wednesday |         |        |
+| 2026-06-10 | Wednesday | P       | Campus |
 | 2026-06-11 | Thursday  |         |        |
 | 2026-06-12 | Friday    |         |        |
 | 2026-06-13 | Saturday  | Holiday | -      |
