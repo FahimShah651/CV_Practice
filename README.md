@@ -70,6 +70,7 @@ This repository is a **self-taught, structured Computer Vision curriculum** buil
 - 2026-06-10: Campus — Inception & DenseNet (Week 10, Wed)
 - 2026-06-11: Campus — Transfer Learning (Week 10, Thu)
 - 2026-06-12: Campus — PROJECT Plant Disease Classifier + Grad-CAM (Week 10, Fri)
+- 2026-06-15: Remote — Detection Fundamentals (Week 11, Mon)
 
 ---
 
@@ -144,7 +145,8 @@ CV_Practice/
 │   │   ├── 03_Inception & DenseNet.ipynb
 │   │   ├── 04_Transfer Learning.ipynb
 │   │   └── 05_PROJECT Plant Disease Classifier + Grad-CAM.ipynb
-│   ├── Week_03/                 ← Object Detection
+│   ├── Week_03/                 ← Object Detection (Week 11)
+│   │   └── 01_Detection Fundamentals.ipynb
 │   ├── Week_04/                 ← Segmentation
 │   ├── Week_05/                 ← Vision Transformers (Week 13)
 │   └── Week_06/                 ← ViT Capstone (Week 14)
@@ -534,13 +536,13 @@ seaborn>=0.13
 
 **Daily Attendance Tracking:**
 
-| Day | Topic                  | Remote | Campus |
-| --- | ---------------------- | ------ | ------ |
-| Mon | Detection Fundamentals | [ ]    | [ ]    |
-| Tue | R-CNN Family           | [ ]    | [ ]    |
-| Wed | YOLO                   | [ ]    | [ ]    |
-| Thu | Custom Training        | [ ]    | [ ]    |
-| Fri | Project                | [ ]    | [ ]    |
+| Day | Topic                  | File | Remote | Campus |
+| --- | ---------------------- | ---- | ------ | ------ |
+| Mon | Detection Fundamentals | [01_Detection Fundamentals.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_03/01_Detection%20Fundamentals.ipynb) | Remote | |
+| Tue | R-CNN Family           | | [ ]    | [ ]    |
+| Wed | YOLO                   | | [ ]    | [ ]    |
+| Thu | Custom Training        | | [ ]    | [ ]    |
+| Fri | Project                | | [ ]    | [ ]    |
 
 </details>
 
