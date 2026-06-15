@@ -333,13 +333,13 @@ seaborn>=0.13
 
 **Daily Attendance Tracking:**
 
-| Day | Topic                     | Remote | Campus |
-| --- | ------------------------- | ------ | ------ |
-| Mon | Geometric Transformations | - [ ]  | - [ ]  |
-| Tue | Contours & Shape Analysis | - [ ]  | - [ ]  |
-| Wed | Hough Transforms          | - [ ]  | - [ ]  |
-| Thu | Segmentation              | - [ ]  | - [ ]  |
-| Fri | Project                   | - [ ]  | - [ ]  |
+| Day | Topic                     | File                                                                                                                                                                                                                               | Remote | Campus |
+| --- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| Mon | Geometric Transformations | [01_Geometric Transformations.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_03/01_Geometric%20Transformations.ipynb)                                                                                  |        | Campus |
+| Tue | Contours & Shape Analysis | [02_Contours & Shape Analysis.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_03/02_Contours%20%26%20Shape%20Analysis.ipynb)                                                                            |        | Campus |
+| Wed | Hough Transforms          | [03_Hough Transforms.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_03/03_Hough%20Transforms.ipynb)                                                                                                   |        | Campus |
+| Thu | Segmentation              | [04_Segmentation.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_03/04_Segmentation.ipynb)                                                                                                             |        | Campus |
+| Fri | Project                   | [05_Smart Document Scanner Project.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_03/05_Smart%20Document%20Scanner%20Project.ipynb)                                                                    |        | Campus |
 
 **Week 3 Project:** Smart Document Scanner — phone photo → edge detection → perspective warp → flattened OCR-ready output.
 
@@ -358,13 +358,13 @@ seaborn>=0.13
 
 **Daily Attendance Tracking:**
 
-| Day | Topic             | Remote | Campus |
-| --- | ----------------- | ------ | ------ |
-| Mon | Harris & FAST     | - [ ]  | - [ ]  |
-| Tue | SIFT / SURF / ORB | - [ ]  | - [ ]  |
-| Wed | Feature Matching  | - [ ]  | - [ ]  |
-| Thu | Optical Flow      | - [ ]  | - [ ]  |
-| Fri | Capstone          | - [ ]  | - [ ]  |
+| Day | Topic             | File                                                                                                                                                                                                         | Remote | Campus |
+| --- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------ |
+| Mon | Harris & FAST     | [01_Harris & FAST.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_04/01_Harris%20%26%20FAST.ipynb)                                                                               |        | Campus |
+| Tue | SIFT / SURF / ORB | [02_SIFT, SURF & ORB.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_04/02_SIFT%2C%20SURF%20%26%20ORB.ipynb)                                                                     |        | Campus |
+| Wed | Feature Matching  | [03_Feature Matching.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_04/03_Feature%20Matching.ipynb)                                                                             |        | Campus |
+| Thu | Optical Flow      | [04_Optical Flow.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_04/04_Optical%20Flow.ipynb)                                                                                     |        | Campus |
+| Fri | Capstone          | [05_Panorama Stitcher Capstone.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/01_April/Week_04/05_Panorama%20Stitcher%20Capstone.ipynb)                                                       |        | Campus |
 
 **Phase 1 Capstone:** Panorama Stitcher — SIFT → ratio test matching → RANSAC homography → multi-image warp + blend. CLI interface. GitHub repo.
 
