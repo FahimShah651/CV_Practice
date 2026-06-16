@@ -71,6 +71,7 @@ This repository is a **self-taught, structured Computer Vision curriculum** buil
 - 2026-06-11: Campus — Transfer Learning (Week 10, Thu)
 - 2026-06-12: Campus — PROJECT Plant Disease Classifier + Grad-CAM (Week 10, Fri)
 - 2026-06-15: Remote — Detection Fundamentals (Week 11, Mon)
+- 2026-06-16: Remote — R-CNN Family (Week 11, Tue)
 
 ---
 
@@ -539,7 +540,7 @@ seaborn>=0.13
 | Day | Topic                  | File | Remote | Campus |
 | --- | ---------------------- | ---- | ------ | ------ |
 | Mon | Detection Fundamentals | [01_Detection Fundamentals.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_03/01_Detection%20Fundamentals.ipynb) | Remote | |
-| Tue | R-CNN Family           | | [ ]    | [ ]    |
+| Tue | R-CNN Family           | [02_R-CNN Family.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_03/02_R-CNN%20Family.ipynb) | Remote | |
 | Wed | YOLO                   | | [ ]    | [ ]    |
 | Thu | Custom Training        | | [ ]    | [ ]    |
 | Fri | Project                | | [ ]    | [ ]    |
