@@ -108,7 +108,7 @@
 | 2026-06-14 | Sunday    | Holiday | -      |
 | 2026-06-15 | Monday    | P       | Remote |
 | 2026-06-16 | Tuesday   | P       | Remote |
-| 2026-06-17 | Wednesday |         |        |
+| 2026-06-17 | Wednesday | P       | Remote |
 | 2026-06-18 | Thursday  | P       | Remote |
 | 2026-06-19 | Friday    | P       | Remote |
 | 2026-06-20 | Saturday  | Holiday | -      |
