@@ -76,6 +76,8 @@ This repository is a **self-taught, structured Computer Vision curriculum** buil
 - 2026-06-18: Remote — Custom Training (Week 11, Thu)
 - 2026-06-19: Remote — PROJECT Real-time Object Detector (Week 11, Fri)
 - 2026-06-22: Remote — FCN & U-Net (Week 12, Mon)
+- 2026-06-23: Remote — DeepLab (Week 12, Tue)
+- 2026-06-24: Remote — Mask R-CNN (Week 12, Wed)
 
 ---
 
@@ -567,8 +569,8 @@ seaborn>=0.13
 | Day | Topic          | File | Remote | Campus |
 | --- | -------------- | ---- | ------ | ------ |
 | Mon | FCN & U-Net    | [01_FCN & U-Net.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_04/01_FCN%20%26%20U-Net.ipynb) | Remote | |
-| Tue | DeepLab        | | [ ]    | [ ]    |
-| Wed | Mask R-CNN     | | [ ]    | [ ]    |
+| Tue | DeepLab        | [02_DeepLab.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_04/02_DeepLab.ipynb) | Remote | |
+| Wed | Mask R-CNN     | [03_Mask R-CNN.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_04/03_Mask%20R-CNN.ipynb) | Remote | |
 | Thu | SAM + Panoptic | | [ ]    | [ ]    |
 | Fri | Project        | | [ ]    | [ ]    |
 
