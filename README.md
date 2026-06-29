@@ -78,6 +78,8 @@ This repository is a **self-taught, structured Computer Vision curriculum** buil
 - 2026-06-22: Remote — FCN & U-Net (Week 12, Mon)
 - 2026-06-23: Remote — DeepLab (Week 12, Tue)
 - 2026-06-24: Remote — Mask R-CNN (Week 12, Wed)
+- 2026-06-25: Holiday — SAM & Panoptic (Week 12, Thu — file created)
+- 2026-06-26: Holiday — PROJECT Medical Image Segmentation (Week 12, Fri — file created)
 
 ---
 
@@ -571,8 +573,8 @@ seaborn>=0.13
 | Mon | FCN & U-Net    | [01_FCN & U-Net.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_04/01_FCN%20%26%20U-Net.ipynb) | Remote | |
 | Tue | DeepLab        | [02_DeepLab.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_04/02_DeepLab.ipynb) | Remote | |
 | Wed | Mask R-CNN     | [03_Mask R-CNN.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_04/03_Mask%20R-CNN.ipynb) | Remote | |
-| Thu | SAM + Panoptic | | [ ]    | [ ]    |
-| Fri | Project        | | [ ]    | [ ]    |
+| Thu | SAM + Panoptic | [04_SAM & Panoptic.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_04/04_SAM%20%26%20Panoptic.ipynb) | Holiday | - |
+| Fri | Project        | [05_PROJECT Medical Image Segmentation.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/03_June/Week_04/05_PROJECT%20Medical%20Image%20Segmentation.ipynb) | Holiday | - |
 
 </details>
 
