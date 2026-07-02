@@ -50,39 +50,6 @@ This repository is a **self-taught, structured Computer Vision curriculum** buil
 | 🖥️ PM Session | 2:00 PM – 6:00 PM | Projects, coding practice, experimentation & review  |
 | 📅 Days         | Monday – Friday   | 8 effective hours/day · 130 days total              |
 
----
-
-## 📝 Today's Attendance
-
-- 2026-05-14: Remote work (work from home)
-- 2026-05-25: Remote — Vehicle Counter Design (Week 8, Mon)
-- 2026-05-26: Remote — Speed Estimation System (Week 8, Tue)
-- 2026-05-27: Remote — Polish & End-to-End Testing (Week 8, Wed)
-- 2026-05-28: Remote — GitHub Documentation (Week 8, Thu)
-- 2026-05-29: Remote — Portfolio Write-up (Week 8, Fri)
-- 2026-06-02: Campus — MLP Theory (Week 9, Mon)
-- 2026-06-03: Campus — PyTorch Fundamentals (Week 9, Tue)
-- 2026-06-04: Campus — Optimizers & Training (Week 9, Wed)
-- 2026-06-05: Remote — CNN Theory (Week 9, Thu)
-- 2026-06-06: Remote — PROJECT Custom CNN Classifier (Week 9, Fri)
-- 2026-06-08: Remote — LeNet to AlexNet to VGGNet (Week 10, Mon)
-- 2026-06-09: Campus — ResNet (Week 10, Tue)
-- 2026-06-10: Campus — Inception & DenseNet (Week 10, Wed)
-- 2026-06-11: Campus — Transfer Learning (Week 10, Thu)
-- 2026-06-12: Campus — PROJECT Plant Disease Classifier + Grad-CAM (Week 10, Fri)
-- 2026-06-15: Remote — Detection Fundamentals (Week 11, Mon)
-- 2026-06-16: Remote — R-CNN Family (Week 11, Tue)
-- 2026-06-17: Remote — YOLO (Week 11, Wed)
-- 2026-06-18: Remote — Custom Training (Week 11, Thu)
-- 2026-06-19: Remote — PROJECT Real-time Object Detector (Week 11, Fri)
-- 2026-06-22: Remote — FCN & U-Net (Week 12, Mon)
-- 2026-06-23: Remote — DeepLab (Week 12, Tue)
-- 2026-06-24: Remote — Mask R-CNN (Week 12, Wed)
-- 2026-06-25: Holiday — SAM & Panoptic (Week 12, Thu — file created)
-- 2026-06-26: Holiday — PROJECT Medical Image Segmentation (Week 12, Fri — file created)
-
----
-
 ## 📊 Roadmap Overview
 
 ```
@@ -1040,10 +1007,10 @@ python inference.py --image path/to/image.jpg --visualize
 
 | Phase                                | Weeks  | Status         |
 | ------------------------------------ | ------ | -------------- |
-| [Phase 1 — Foundations](./01_April)    | 1–4   | 🔲 In Progress |
-| [Phase 2 — Classical ML](./02_May)     | 5–8   | 🔲 In Progress |
-| [Phase 3 — Deep Learning](./03_June)   | 9–14  | 🔲 Not Started |
-| [Phase 4 — Advanced DL](./04_July)     | 15–18 | 🔲 Not Started |
+| [Phase 1 — Foundations](./01_April)    | 1–4   | ✅ completed |
+| [Phase 2 — Classical ML](./02_May)     | 5–8   | ✅ completed |
+| [Phase 3 — Deep Learning](./03_June)   | 9–14  | ✅ completed |
+| [Phase 4 — Advanced DL](./04_July)     | 15–18 | 🔲 In Progress |
 | [Phase 5 — Specialization](./05_Agust) | 19–22 | 🔲 Not Started |
 | [Phase 6 — Capstone](./06_September)   | 23–26 | 🔲 Not Started |
 
