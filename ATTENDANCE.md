@@ -132,8 +132,8 @@
 
 | Date       | Day       | Status  | Mode   |
 | ---------- | --------- | ------- | ------ |
-| 2026-07-01 | Wednesday | P       | Remote |
-| 2026-07-02 | Thursday  | P       | Remote |
+| 2026-07-01 | Wednesday | P       | Campus |
+| 2026-07-02 | Thursday  | P       | Campus |
 | 2026-07-03 | Friday    |         |        |
 | 2026-07-04 | Saturday  | Holiday | -      |
 | 2026-07-05 | Sunday    | Holiday | -      |

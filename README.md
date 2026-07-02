@@ -594,8 +594,8 @@ seaborn>=0.13
 
 | Day | Topic              | File | Remote | Campus |
 | --- | ------------------ | ---- | ------ | ------ |
-| Mon | GAN Theory         | [01_GAN Theory.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_01/01_GAN%20Theory.ipynb) | Remote | |
-| Tue | DCGAN & StyleGAN   | [02_DCGAN & StyleGAN.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_01/02_DCGAN%20%26%20StyleGAN.ipynb) | Remote | |
+| Mon | GAN Theory         | [01_GAN Theory.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_01/01_GAN%20Theory.ipynb) | | Campus |
+| Tue | DCGAN & StyleGAN   | [02_DCGAN & StyleGAN.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_01/02_DCGAN%20%26%20StyleGAN.ipynb) | | Campus |
 | Wed | Pix2Pix & CycleGAN | | [ ]    | [ ]    |
 | Thu | VAEs & Diffusion   | | [ ]    | [ ]    |
 | Fri | Project            | | [ ]    | [ ]    |
