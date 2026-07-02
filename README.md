@@ -592,13 +592,13 @@ seaborn>=0.13
 
 **Daily Attendance Tracking:**
 
-| Day | Topic              | Remote | Campus |
-| --- | ------------------ | ------ | ------ |
-| Mon | GAN Theory         | [ ]    | [ ]    |
-| Tue | DCGAN & StyleGAN   | [ ]    | [ ]    |
-| Wed | Pix2Pix & CycleGAN | [ ]    | [ ]    |
-| Thu | VAEs & Diffusion   | [ ]    | [ ]    |
-| Fri | Project            | [ ]    | [ ]    |
+| Day | Topic              | File | Remote | Campus |
+| --- | ------------------ | ---- | ------ | ------ |
+| Mon | GAN Theory         | [01_GAN Theory.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_01/01_GAN%20Theory.ipynb) | Remote | |
+| Tue | DCGAN & StyleGAN   | [02_DCGAN & StyleGAN.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_01/02_DCGAN%20%26%20StyleGAN.ipynb) | Remote | |
+| Wed | Pix2Pix & CycleGAN | | [ ]    | [ ]    |
+| Thu | VAEs & Diffusion   | | [ ]    | [ ]    |
+| Fri | Project            | | [ ]    | [ ]    |
 
 </details>
 

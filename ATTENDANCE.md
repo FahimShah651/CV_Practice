@@ -120,7 +120,27 @@
 | 2026-06-26 | Friday    | Holiday | -      |
 | 2026-06-27 | Saturday  | Holiday | -      |
 | 2026-06-28 | Sunday    | Holiday | -      |
-| 2026-06-29 | Monday    |         |        |
-| 2026-06-30 | Tuesday   |         |        |
+| 2026-06-29 | Monday    | Holiday | -      |
+| 2026-06-30 | Tuesday   | Holiday | -      |
+
+</details>
+
+---
+
+<details>
+<summary><b>July 2026 — Phase 4: Advanced Deep Learning</b></summary>
+
+| Date       | Day       | Status  | Mode   |
+| ---------- | --------- | ------- | ------ |
+| 2026-07-01 | Wednesday | P       | Remote |
+| 2026-07-02 | Thursday  | P       | Remote |
+| 2026-07-03 | Friday    |         |        |
+| 2026-07-04 | Saturday  | Holiday | -      |
+| 2026-07-05 | Sunday    | Holiday | -      |
+| 2026-07-06 | Monday    |         |        |
+| 2026-07-07 | Tuesday   |         |        |
+| 2026-07-08 | Wednesday |         |        |
+| 2026-07-09 | Thursday  |         |        |
+| 2026-07-10 | Friday    |         |        |
 
 </details>
