@@ -596,9 +596,9 @@ seaborn>=0.13
 | --- | ------------------ | ---- | ------ | ------ |
 | Mon | GAN Theory         | [01_GAN Theory.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_01/01_GAN%20Theory.ipynb) | | Campus |
 | Tue | DCGAN & StyleGAN   | [02_DCGAN & StyleGAN.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_01/02_DCGAN%20%26%20StyleGAN.ipynb) | | Campus |
-| Wed | Pix2Pix & CycleGAN | | [ ]    | [ ]    |
-| Thu | VAEs & Diffusion   | | [ ]    | [ ]    |
-| Fri | Project            | | [ ]    | [ ]    |
+| Wed | Pix2Pix & CycleGAN | [03_Pix2Pix & CycleGAN.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_01/03_Pix2Pix%20%26%20CycleGAN.ipynb) | | Campus |
+| Thu | VAEs & Diffusion   | [04_VAEs & Diffusion.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_01/04_VAEs%20%26%20Diffusion.ipynb) | | Campus |
+| Fri | Project            | [05_PROJECT Image-to-Image Translation.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_01/05_PROJECT%20Image-to-Image%20Translation.ipynb) | | Campus |
 
 </details>
 
@@ -617,7 +617,7 @@ seaborn>=0.13
 
 | Day | Topic           | Remote | Campus |
 | --- | --------------- | ------ | ------ |
-| Mon | 3D Geometry     | [ ]    | [ ]    |
+| Mon | 3D Geometry     | [ ]    | [x]    |
 | Tue | Monocular Depth | [ ]    | [ ]    |
 | Wed | Point Clouds    | [ ]    | [ ]    |
 | Thu | NeRF & 3DGS     | [ ]    | [ ]    |
