@@ -615,13 +615,13 @@ seaborn>=0.13
 
 **Daily Attendance Tracking:**
 
-| Day | Topic           | Remote | Campus |
-| --- | --------------- | ------ | ------ |
-| Mon | 3D Geometry     | [ ]    | [x]    |
-| Tue | Monocular Depth | [ ]    | [ ]    |
-| Wed | Point Clouds    | [ ]    | [ ]    |
-| Thu | NeRF & 3DGS     | [ ]    | [ ]    |
-| Fri | Project         | [ ]    | [ ]    |
+| Day | Topic           | File | Remote | Campus |
+| --- | --------------- | ---- | ------ | ------ |
+| Mon | 3D Geometry     | [01_3D Geometry.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_02/01_3D%20Geometry.ipynb) | | Campus |
+| Tue | Monocular Depth | [02_Monocular Depth.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_02/02_Monocular%20Depth.ipynb) | | Campus |
+| Wed | Point Clouds    | [03_Point Clouds.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_02/03_Point%20Clouds.ipynb) | | Campus |
+| Thu | NeRF & 3DGS     | [04_NeRF & 3DGS.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_02/04_NeRF%20%26%203DGS.ipynb) | | Campus |
+| Fri | Project         | | [ ] | [ ] |
 
 </details>
 

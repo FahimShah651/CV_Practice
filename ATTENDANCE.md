@@ -140,7 +140,7 @@
 | 2026-07-06 | Monday    | P       | Campus |
 | 2026-07-07 | Tuesday   | P       | Campus |
 | 2026-07-08 | Wednesday | P       | Campus |
-| 2026-07-09 | Thursday  |         |        |
-| 2026-07-10 | Friday    |         |        |
+| 2026-07-09 | Thursday  | P       | Campus |
+| 2026-07-10 | Friday    | P       | Campus |
 
 </details>
