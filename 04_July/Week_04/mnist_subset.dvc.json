@@ -1,0 +1,6 @@
+{
+  "path": "train_ds (3000 MNIST samples)",
+  "hash_algo": "sha256(first 200 samples)",
+  "hash": "02585cd0cea38a675ef53d6ac2443482fb2d5fdab765e9b20c3c8d0ad3102cca",
+  "size_samples": 3000
+}

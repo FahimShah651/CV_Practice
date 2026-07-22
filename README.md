@@ -621,7 +621,7 @@ seaborn>=0.13
 | Tue | Monocular Depth | [02_Monocular Depth.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_02/02_Monocular%20Depth.ipynb) | | Campus |
 | Wed | Point Clouds    | [03_Point Clouds.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_02/03_Point%20Clouds.ipynb) | | Campus |
 | Thu | NeRF & 3DGS     | [04_NeRF & 3DGS.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_02/04_NeRF%20%26%203DGS.ipynb) | | Campus |
-| Fri | Project         | | [ ] | [ ] |
+| Fri | Project         | [05_PROJECT Depth-Aware Background Blur.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_02/05_PROJECT%20Depth-Aware%20Background%20Blur.ipynb) | | Campus |
 
 </details>
 
@@ -636,13 +636,13 @@ seaborn>=0.13
 
 **Daily Attendance Tracking:**
 
-| Day | Topic                   | Remote | Campus |
-| --- | ----------------------- | ------ | ------ |
-| Mon | SimCLR, MoCo, DINO      | [ ]    | [ ]    |
-| Tue | SimCLR, MoCo, DINO      | [ ]    | [ ]    |
-| Wed | MAE & Foundation Models | [ ]    | [ ]    |
-| Thu | MAE & Foundation Models | [ ]    | [ ]    |
-| Fri | Project                 | [ ]    | [ ]    |
+| Day | Topic                   | File                                                                                                                                                                                     | Remote | Campus |
+| --- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| Mon | SimCLR, MoCo, DINO      | [01_SimCLR, MoCo & DINO.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_03/01_SimCLR%2C%20MoCo%20%26%20DINO.ipynb)                                             | | Campus |
+| Tue | SimCLR, MoCo, DINO      | [01_SimCLR, MoCo & DINO.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_03/01_SimCLR%2C%20MoCo%20%26%20DINO.ipynb)                                             | | Campus |
+| Wed | MAE & Foundation Models | [02_MAE & Foundation Models.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_03/02_MAE%20%26%20Foundation%20Models.ipynb)                                       | | Campus |
+| Thu | MAE & Foundation Models | [02_MAE & Foundation Models.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_03/02_MAE%20%26%20Foundation%20Models.ipynb)                                       | | Campus |
+| Fri | Project                 | [03_PROJECT 5-Shot Classifier with DINOv2 Features.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_03/03_PROJECT%205-Shot%20Classifier%20with%20DINOv2%20Features.ipynb) | | Campus |
 
 </details>
 
@@ -659,13 +659,13 @@ seaborn>=0.13
 
 **Daily Attendance Tracking:**
 
-| Day | Topic                  | Remote | Campus |
-| --- | ---------------------- | ------ | ------ |
-| Mon | Pruning & Quantization | [ ]    | [ ]    |
-| Tue | ONNX & TensorRT        | [ ]    | [ ]    |
-| Wed | Edge Deployment        | [ ]    | [ ]    |
-| Thu | MLOps                  | [ ]    | [ ]    |
-| Fri | Capstone               | [ ]    | [ ]    |
+| Day | Topic                  | File                                                                                                                                                    | Remote | Campus |
+| --- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| Mon | Pruning & Quantization | [01_Pruning & Quantization.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_04/01_Pruning%20%26%20Quantization.ipynb)           | | Campus |
+| Tue | ONNX & TensorRT        | [02_ONNX & TensorRT.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_04/02_ONNX%20%26%20TensorRT.ipynb)                         | | Campus |
+| Wed | Edge Deployment        | [03_Edge Deployment.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_04/03_Edge%20Deployment.ipynb)                             | | Campus |
+| Thu | MLOps                  | [04_MLOps.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_04/04_MLOps.ipynb)                                                   | | Campus |
+| Fri | Capstone               | [05_CAPSTONE Dockerized FastAPI CV Microservice.ipynb](https://github.com/FahimShah651/CV_Practice/blob/main/04_July/Week_04/05_CAPSTONE%20Dockerized%20FastAPI%20CV%20Microservice.ipynb) | | Campus |
 
 </details>
 

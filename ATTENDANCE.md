@@ -142,5 +142,26 @@
 | 2026-07-08 | Wednesday | P       | Campus |
 | 2026-07-09 | Thursday  | P       | Campus |
 | 2026-07-10 | Friday    | P       | Campus |
+| 2026-07-11 | Saturday  | Holiday | -      |
+| 2026-07-12 | Sunday    | Holiday | -      |
+| 2026-07-13 | Monday    | P       | Campus |
+| 2026-07-14 | Tuesday   | P       | Campus |
+| 2026-07-15 | Wednesday | P       | Campus |
+| 2026-07-16 | Thursday  | P       | Campus |
+| 2026-07-17 | Friday    | P       | Campus |
+| 2026-07-18 | Saturday  | Holiday | -      |
+| 2026-07-19 | Sunday    | Holiday | -      |
+| 2026-07-20 | Monday    | P       | Campus |
+| 2026-07-21 | Tuesday   | P       | Campus |
+| 2026-07-22 | Wednesday | P       | Campus |
+| 2026-07-23 | Thursday  | P       | Campus |
+| 2026-07-24 | Friday    | P       | Campus |
+| 2026-07-25 | Saturday  | Holiday | -      |
+| 2026-07-26 | Sunday    | Holiday | -      |
+| 2026-07-27 | Monday    | P       | Campus |
+| 2026-07-28 | Tuesday   | Holiday | -      |
+| 2026-07-29 | Wednesday | Holiday | -      |
+| 2026-07-30 | Thursday  | Holiday | -      |
+| 2026-07-31 | Friday    | Holiday | -      |
 
 </details>

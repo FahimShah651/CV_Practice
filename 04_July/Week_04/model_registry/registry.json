@@ -1,0 +1,16 @@
+{
+  "run_id": "run-06",
+  "config": {
+    "lr": 0.003,
+    "hidden": 128,
+    "epochs": 4
+  },
+  "metrics": {
+    "final_val_acc": 0.963
+  },
+  "params": 103066,
+  "checkpoint": "model_registry/run-06.pt",
+  "weights_sha256_16": "013c9c1b5c09cfcf",
+  "promoted_at": "2026-07-22 13:31:00",
+  "stage": "production"
+}
