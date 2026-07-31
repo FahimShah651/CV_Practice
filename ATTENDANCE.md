@@ -159,9 +159,9 @@
 | 2026-07-25 | Saturday  | Holiday | -      |
 | 2026-07-26 | Sunday    | Holiday | -      |
 | 2026-07-27 | Monday    | P       | Campus |
-| 2026-07-28 | Tuesday   | Holiday | -      |
-| 2026-07-29 | Wednesday | Holiday | -      |
-| 2026-07-30 | Thursday  | Holiday | -      |
-| 2026-07-31 | Friday    | Holiday | -      |
+| 2026-07-28 | Tuesday   | P       | Campus |
+| 2026-07-29 | Wednesday | P       | Campus |
+| 2026-07-30 | Thursday  | P       | Remote |
+| 2026-07-31 | Friday    | P       | Remote |
 
 </details>
